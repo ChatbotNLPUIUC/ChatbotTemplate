@@ -68,6 +68,12 @@
          "patterns": [],
          "responses": ["Loading hospital details"],
          "context": [""]
+        },
+        {
+          "tag": "test",
+          "patterns":["Daniel Qian"],
+          "responses": ["AHHHHHHH"],
+          "context": [""]
         }
    ]
 }
