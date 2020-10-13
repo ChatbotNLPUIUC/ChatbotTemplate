@@ -18,10 +18,10 @@ for row in table.findAll('div', attrs = {'class':'courseblock'}):
 	#quote['theme'] = row.h5.text
     course['url'] = row.a['href']
     course['name'] = row.a.getText()
+    temp = table.find('p', attrs = {'class':'courseblockdesc'})
+    course['description'] = temp.getText()
     courses.append(course)
-    print(row)
-	#quote['lines'] = row.img['alt'].split(" #")[0]
-	#quote['author'] = row.img['alt'].split(" #")[1]
+    #print(row)
 
 
 #'theme','url','img','lines','author'
@@ -29,7 +29,7 @@ for row in table.findAll('div', attrs = {'class':'courseblock'}):
 filename = 'uiuc_math.csv'
 
 with open(filename, 'w', newline='') as f:
-	w = csv.DictWriter(f,['url', 'name'])
+	w = csv.DictWriter(f,['url', 'name', 'description'])
 	w.writeheader()
 	for course in courses:
 		w.writerow(course)
