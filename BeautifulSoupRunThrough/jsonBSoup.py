@@ -3,6 +3,7 @@
 import requests
 from bs4 import BeautifulSoup
 import csv
+import json
 
 URL = "http://catalog.illinois.edu/courses-of-instruction/math/"
 r = requests.get(URL)
@@ -17,19 +18,17 @@ for row in table.findAll('div', attrs = {'class':'courseblock'}):
     course = {}
 	#quote['theme'] = row.h5.text
     course['url'] = row.a['href']
-    course['name'] = row.a.getText()
-    temp = row.find('p', attrs = {'class':'courseblockdesc'})
-    course['description'] = temp.getText()
+    course['name'] = row.a.getText().strip()
+    temp = table.find('p', attrs = {'class':'courseblockdesc'})
+    course['description'] = temp.getText().strip()
     courses.append(course)
     #print(row)
 
 
 #'theme','url','img','lines','author'
 
-filename = 'uiuc_math.csv'
+filename = 'test_math.json'
+json_obj = json.dumps(courses, indent = 4)
 
-with open(filename, 'w', newline='') as f:
-	w = csv.DictWriter(f,['url', 'name', 'description'])
-	w.writeheader()
-	for course in courses:
-		w.writerow(course)
+with open(filename, 'w',) as outfile:
+	outfile.write(json_obj)
