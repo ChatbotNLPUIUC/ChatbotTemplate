@@ -1,0 +1,554 @@
+url,name,description
+https://courses.illinois.edu/schedule/terms/ECE/101,ECE 101   Exploring Digital Info Technol   credit: 3 Hours. ,"
+Principles and processes for the development of information technologies: digital music, digital images, digital logic, data compression, error correction, information security, and communication networks. Laboratory for design of hardware and software, and experiments in audio and image processing. Intended for students outside the College of Engineering. Credit is not given to Computer or Electrical Engineering majors.This course satisfies the General Education Criteria for:Nat Sci & Tech - Phys SciencesQuantitative Reasoning II"
+https://courses.illinois.edu/schedule/terms/ECE/110,ECE 110   Introduction to Electronics   credit: 1 to 3 Hours. ,"
+Introduction to selected fundamental concepts and principles in electrical engineering. Emphasis on measurement, modeling, and analysis of circuits and electronics while introducing numerous applications. Includes sub-discipline topics of electrical and computer engineering, for example, electromagnetics, control, signal processing, microelectronics, communications, and scientific computing basics. Lab work incorporates sensors and motors into an autonomous moving vehicle, designed and constructed to perform tasks jointly determined by the instructors and students.
+"
+https://courses.illinois.edu/schedule/terms/ECE/120,ECE 120   Introduction to Computing   credit: 4 Hours. ,"
+Introduction to digital logic, computer systems, and computer languages. Topics include representation of information, combinational and sequential logic analysis and design, finite state machines, the von Neumann model, basic computer organization, and machine language programming. Laboratory assignments provide hands-on experience with design, simulation, implementation, and programming of digital systems. Prerequisite: Restricted to Computer Engineering or Electrical Engineering majors or transfer students with ECE Department consent.
+"
+https://courses.illinois.edu/schedule/terms/ECE/198,ECE 198   Special Topics   credit: 1 to 4 Hours. ,"
+Lectures and discussions relating to new areas of interest. May be repeated in the same or separate terms for unlimited hours if topics vary. See class schedule for topics and prerequisites.
+"
+https://courses.illinois.edu/schedule/terms/ECE/199,ECE 199   Undergraduate Open Seminar   credit: 1 to 5 Hours. ,"
+Approved for both letter and S/U grading. May be repeated.
+"
+https://courses.illinois.edu/schedule/terms/ECE/200,ECE 200   Seminar   credit: 0 Hours. ,"
+Discussions of educational programs, career opportunities, and other topics in electrical and computer engineering. Approved for Letter and S/U grading. May be repeated. For Computer Engineering and Electrical Engineering majors only.
+"
+https://courses.illinois.edu/schedule/terms/ECE/205,ECE 205   Electrical and Electronic Circuits   credit: 3 Hours. ,"
+ECE 205 is an introductory course on circuit analysis and electronics for non-majors in engineering. The course includes bi-weekly electronics lab experiments designed to provide students with hands-on experience. Basic principles of circuit analysis and DC circuits; time-domain analysis of 1st and 2nd order linear circuits; complex numbers, phasors, AC steady-state analysis; frequency response; op-amp, diode, and BJT circuits; logic gates and digital logic circuits. Credit is not given to Computer or Electrical Engineering majors. Credit is not given to Computer or Electrical Engineering majors. Prerequisite: PHYS 212.
+"
+https://courses.illinois.edu/schedule/terms/ECE/206,ECE 206   Electrical and Electronic Circuits Lab   credit: 1 Hour. ,"
+Laboratory experiments in digital logic and controllers; transistor amplifier and switching circuits; DC motor control and voltage regulators; sensors and motion control with feedback; wireless communication. Credit is not given to Computer or Electrical Engineering majors. Prerequisite: ECE 205.
+"
+https://courses.illinois.edu/schedule/terms/ECE/210,ECE 210   Analog Signal Processing   credit: 4 Hours. ,"
+Analog signal processing, with an emphasis on underlying concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; differential equation models of linear circuits and systems; Laplace transform; convolution; stability; phasors; frequency response; Fourier series; Fourier transform; active filters; AM radio. Credit is not given for both ECE 210 and ECE 211. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.
+"
+https://courses.illinois.edu/schedule/terms/ECE/211,ECE 211   Analog Circuits & Systems   credit: 2 Hours. ,"
+Concepts from circuit and system analysis: linear systems; review of elementary circuit analysis; op amps; transient analysis; differential equation models of linear circuits and systems; Laplace transform. Credit is not given for both ECE 211 and ECE 210. Prerequisite: ECE 110 and PHYS 212; credit or concurrent registration in MATH 285 or MATH 286.
+"
+https://courses.illinois.edu/schedule/terms/ECE/220,ECE 220   Computer Systems & Programming   credit: 4 Hours. ,"
+Advanced use of LC-3 assembly language for I/O and function calling convention. C programming, covering basic programming concepts, functions, arrays, pointers, I/O, recursion, simple data structures, linked lists, dynamic memory management, and basic algorithms. Information hiding and object-oriented design as commonly implemented in modern software and computer systems programming. Prerequisite: ECE 120. Restricted to Computer Engineering or Electrical Engineering majors or transfer students with ECE Department consent.
+"
+https://courses.illinois.edu/schedule/terms/ECE/297,ECE 297   Individual Study   credit: 1 Hour. ,"
+Individual projects. Approved written application to department as specified by department or instructors is required. Approved for both letter and S/U grading. May be repeated in separate terms to a maximum of 2 hours. Prerequisite: Consent of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/298,ECE 298   Special Topics   credit: 1 to 4 Hours. ,"
+Lectures and discussions relating to new areas of interest. May be repeated in the same or separate terms for unlimited hours if topics vary. See class schedule for topics and prerequisites.
+"
+https://courses.illinois.edu/schedule/terms/ECE/304,ECE 304   Photonic Devices   credit: 3 Hours. ,"
+Introduction to active and passive photonic devices and applications; optical processes in semiconductor and dielectric materials including electrical junctions, light emission and absorption, and waveguide confinement; photonic components such as light emitting diodes, lasers, photodetectors, solar cells, liquid crystals, and optical fiber; optical information distribution networks and display applications. Prerequisite: PHYS 214.
+"
+https://courses.illinois.edu/schedule/terms/ECE/307,ECE 307   Techniques for Engrg Decisions   credit: 3 Hours. ,"
+Modeling of decisions in engineering work and the analysis of models to develop a systematic approach to making decisions. Fundamental concepts in linear and dynamic programming; probability theory; and statistics. Resource allocation; logistics; scheduling; sequential decision making; siting of facilities; investment decisions; application of financial derivatives; other problems for decision making under uncertainty. Case studies from actual industrial applications illustrate real-world decisions. Prerequisite: ECE 210; credit or concurrent registration in ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/310,ECE 310   Digital Signal Processing   credit: 3 Hours. ,"
+Introduction to discrete-time systems and discrete-time signal processing with an emphasis on causal systems; discrete-time linear systems, difference equations, z-transforms, discrete convolution, stability, discrete-time Fourier transforms, analog-to-digital and digital-to-analog conversion, digital filter design, discrete Fourier transforms, fast Fourier transforms, spectral analysis, and applications of digital signal processing. Prerequisite: ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/311,ECE 311   Digital Signal Processing Lab   credit: 1 Hour. ,"
+Companion laboratory for ECE 310. Prerequisite: Credit or concurrent registration in ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/313,ECE 313   Probability with Engrg Applic   credit: 3 Hours. ,"
+Probability theory with applications to engineering problems such as the reliability of circuits and systems to statistical methods for hypothesis testing, decision making under uncertainty, and parameter estimation. Same as MATH 362. Credit is not given for both ECE 313 and MATH 461. Prerequisite: MATH 286 or MATH 415.
+"
+https://courses.illinois.edu/schedule/terms/ECE/314,ECE 314   Probability in Engineering Lab   credit: 1 Hour. ,"
+Designed to be taken concurrently with ECE 313, Probability in Engineering Systems, to strengthen the students' understanding of the concepts in ECE 313 and their applications, through computer simulation and computation using the Python programming language. Topics include sequential hypothesis testing, parameter estimation, confidence intervals, Bloom filters, min hashing, load balancing, inference for Markov chains, PageRank algorithm, vector Gaussian distribution, contagion in networks, principle component method and linear regression for data analysis, investment portfolio analysis. Prerequisite: Concurrent enrollment in ECE 313 or credit in one of: ECE 313, IE 300, STAT 410.
+"
+https://courses.illinois.edu/schedule/terms/ECE/316,ECE 316   Ethics and Engineering   credit: 3 Hours. ,"
+Ethical issues in the practice of engineering: safety and liability, professional responsibility to clients and employers, whistle-blowing, codes of ethics, career choice, and legal obligations. Philosophical analysis of normative ethical theories. Case studies. Same as PHIL 316. Credit is not given for both ECE 316 and CS 210. Junior standing is required. Prerequisite: RHET 105.This course satisfies the General Education Criteria for:Advanced CompositionHumanities - Hist & Phil"
+https://courses.illinois.edu/schedule/terms/ECE/317,ECE 317   ECE Technology & Management   credit: 3 Hours. ,"
+Basic understanding of electrical and computer engineering concepts applicable to technology management. Circuit components; dc fundamentals; ac fundamentals; semiconductors; operational amplifiers; device fabrication; power distribution; digital devices; computer architecture (including microprocessors). Intended for the Business Majors in the Technology and Management program. Credit is not given to Computer or Electrical Engineering majors. Prerequisite: One of MATH 220, MATH 221, MATH 234.
+"
+https://courses.illinois.edu/schedule/terms/ECE/329,ECE 329   Fields and Waves I   credit: 3 Hours. ,"
+Electromagnetic fields and waves fundamentals and their engineering applications: static electric and magnetic fields; energy storage; Maxwell's equations for time-varying fields; wave solutions in free space, dielectrics and conducting media, transmission line systems; time- and frequency-domain analysis of transmission line circuits and Smith chart applications. Prerequisite: ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/330,ECE 330   Power Ckts & Electromechanics   credit: 3 Hours. ,"
+Network equivalents; power and energy fundamentals, resonance, mutual inductance; three-phase power concepts, forces and torques of electric origin in electromagnetic and electrostatic systems; energy conversion cycles; principles of electric machines; transducers; relays; laboratory demonstration. Prerequisite: ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/333,ECE 333   Green Electric Energy   credit: 3 Hours. ,"
+Electric power grid structure and policy; analysis of wind, solar, and fuels as raw resources; wind turbines and parks; solar cells, modules, arrays and systems; fuel cell power plants; energy and financial performance of green energy projects; integration of green energy into power grid; energy project report and presentation. Prerequisite: ECE 205 or ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/340,ECE 340   Semiconductor Electronics   credit: 3 Hours. ,"
+Modern device electronics: semiconductor fundamentals including crystals and energy bands, charge carriers (electrons and holes), doping, and transport, (drift and diffusion); unipolar devices with the MOS field effect transistor as a logic device and circuit considerations; basic concepts of generation-recombination and the P-N junction as capacitors and current rectifier with applications in photonics; bipolar transistors as amplifiers and switching three-terminal devices. Prerequisite: ECE 210; PHYS 214; credit or concurrent registration in ECE 329.
+"
+https://courses.illinois.edu/schedule/terms/ECE/342,ECE 342   Electronic Circuits   credit: 3 Hours. ,"
+Analysis and design of analog and digital electronic circuits using MOS field effect transistors and bipolar junction transistors, with emphasis on amplifiers in integrated circuits. Credit is not given for both ECE 342 and PHYS 404. Prerequisite: ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/343,ECE 343   Electronic Circuits Laboratory   credit: 1 Hour. ,"
+Companion laboratory for ECE 342. Credit is not given for both ECE 343 and PHYS 404. Prerequisite: Credit or concurrent registration in ECE 342.
+"
+https://courses.illinois.edu/schedule/terms/ECE/350,ECE 350   Fields and Waves II   credit: 3 Hours. ,"
+Continuation of ECE 329: radiation theory; antennas, radiation fields, radiation resistance and gain; transmitting arrays; plane-wave approximation of radiation fields; plane-wave propagation, reflection, and transmission; Doppler effect, evanescent waves and tunneling, dispersion, phase and group velocities; waveguides and resonant cavities; antenna reception and link budgets. Prerequisite: ECE 329.
+"
+https://courses.illinois.edu/schedule/terms/ECE/365,ECE 365   Data Science and Engineering   credit: 3 Hours. ,"
+Project-based course focused on exploring and understanding how data are collected, represented and stored, and computed/analyzed upon to arrive at appropriate and meaningful interpretation. Foundations of machine learning are developed and then applied in the context of two specific application areas, such as social network analytics, biological data analysis, and auto and video analytics. Prerequisite: ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/374,ECE 374   Introduction to Algorithms & Models of Computation   credit: 4 Hours. ,"
+Same as CS 374. See CS 374.
+"
+https://courses.illinois.edu/schedule/terms/ECE/380,ECE 380   Biomedical Imaging   credit: 3 Hours. ,"
+Physics and engineering principles associated with x-ray, computed tomography, nuclear, ultrasound, magnetic resonance, and optical imaging, including human visualization and perception of image data. Same as BIOE 380. Prerequisite: MATH 285 or MATH 286.
+"
+https://courses.illinois.edu/schedule/terms/ECE/385,ECE 385   Digital Systems Laboratory   credit: 3 Hours. ,"
+Design, build, and test digital systems using transistor-transistor logic (TTL), SystemVerilog, and field-programmable gate arrays (FPGAs). Topics include combinational and sequential logic, storage elements, input/output and display, timing analysis, design tradeoffs, synchronous and asynchronous design methods, datapath and controller, microprocessor design, software/hardware co-design, and system-on-a-chip. Prerequisite: ECE 110 and ECE 220.
+"
+https://courses.illinois.edu/schedule/terms/ECE/391,ECE 391   Computer Systems Engineering   credit: 4 Hours. ,"
+Concepts and abstractions central to the development of modern computing systems, with an emphasis on the systems software that controls interaction between devices and other hardware and application programs. Input-output semantics; synchronization; interrupts; multitasking; virtualization of abstractions. Term-based projects. Credit is not given for both ECE 391 and CS 241. Prerequisite: ECE 220 or CS 233.
+"
+https://courses.illinois.edu/schedule/terms/ECE/395,ECE 395   Advanced Digital Projects Lab   credit: 2 or 3 Hours. ,"
+Planning, designing, executing, and documenting a microcomputer-based project. Emphasis on hardware but special projects may require an equal emphasis on software. May be repeated in separate terms. Prerequisite: ECE 385.
+"
+https://courses.illinois.edu/schedule/terms/ECE/396,ECE 396   Honors Project   credit: 1 to 4 Hours. ,"
+Special project or reading course for James Scholars in engineering. May be repeated. Prerequisite: Consent of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/397,ECE 397   Individual Study in ECE   credit: 0 to 4 Hours. ,"
+Individual Projects. Approved for both letter and S/U grading. May be repeated. Prerequisite: Consent of instructor. Approved written application to department as specified by department or instructor is required.
+"
+https://courses.illinois.edu/schedule/terms/ECE/398,ECE 398   Special Topics in ECE   credit: 0 to 4 Hours. ,"
+Subject offerings of new and developing areas of knowledge in electrical and computer engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. Approved for both letter and S/U grading. May be repeated in the same or separate terms if topics vary.
+"
+https://courses.illinois.edu/schedule/terms/ECE/399,ECE 399   Honors Seminar   credit: 1 to 4 Hours. ,"
+Special lecture sequences or discussion groups arranged each term to bring James Scholars in engineering into direct contact with the various aspects of engineering practices and philosophy. For Computer Engineering and Electrical Engineering majors with senior standing. Prerequisite: Consent of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/401,ECE 401   Signal and Image Analysis   credit: 4 Hours. ,"
+An introduction to signal analysis and processing methods for advanced undergraduates or graduate students in the biological, physical, social, engineering and computer sciences. Signal analysis methods and their capabilities, weaknesses, and artifacts with an emphasis on their practical application. Significant hands-on processing and interpretation of real data using MATLAB. 4 undergraduate hours. 4 graduate hours. Credit is not given for both ECE 310 and ECE 401. Prerequisite: MATH 220.
+"
+https://courses.illinois.edu/schedule/terms/ECE/402,ECE 402   Electronic Music Synthesis   credit: 3 Hours. ,"
+Historical survey of electronic and computer music technology; parameters of musical expression and their codification; analysis and synthesis of fixed sound spectra; time-variant spectrum analysis/synthesis of musical sounds; algorithms for dynamic sound synthesis. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/403,ECE 403   Audio Engineering   credit: 3 Hours. ,"
+Resonance and wave phenomena; Acoustics of rooms and transmission lines (e.g., horns); How loudspeakers work: A lab component has been added to measure and model real loudspeakers and enclosures; Topics in digital audio, including AD and DA (Sigma-Delta) audio converters. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 210 and ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/408,ECE 408   Applied Parallel Programming   credit: 4 Hours. ,"
+Parallel programming with emphasis on developing applications for processors with many computation cores. Computational thinking, forms of parallelism, programming models, mapping computations to parallel hardware, efficient data structures, paradigms for efficient parallel algorithms, and application case studies. Same as CS 483 and CSE 408. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 220.
+"
+https://courses.illinois.edu/schedule/terms/ECE/411,ECE 411   Computer Organization & Design   credit: 4 Hours. ,"
+Basic computer organization and design: integer and floating-point computer arithmetic; control unit design; pipelining; system interconnect; memory organization; I/O design; reliability and performance evaluation. Laboratory for computer design implementation, simulation, and layout. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 391 or CS 241.
+"
+https://courses.illinois.edu/schedule/terms/ECE/412,ECE 412   Microcomputer Laboratory   credit: 3 Hours. ,"
+Design, construction, and use of a small general-purpose computer with a micro-processor CPU; MSI and LSI circuits used extensively; control panel, peripheral controllers, control logic, central processor, and programming experiments. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 385; ECE 391 or CS 233. Recommended: Credit or concurrent registration in ECE 411.
+"
+https://courses.illinois.edu/schedule/terms/ECE/414,ECE 414   Biomedical Instrumentation   credit: 3 Hours. ,"
+Same as BIOE 414. See BIOE 414.
+"
+https://courses.illinois.edu/schedule/terms/ECE/415,ECE 415   Biomedical Instrumentation Lab   credit: 2 Hours. ,"
+Same as BIOE 415. See BIOE 415.
+"
+https://courses.illinois.edu/schedule/terms/ECE/416,ECE 416   Biosensors   credit: 3 Hours. ,"
+Underlying engineering principles used to detect small molecules, DNA, proteins, and cells in the context of applications in diagnostic testing, pharmaceutical research, and environmental monitoring. Biosensor approaches including electrochemistry, fluorescence, acoustics, and optics; aspects of selective surface chemistry including methods for biomolecule attachment to transducer surfaces; characterization of bisensor performance; blood glucose detection; fluorescent DNA microarrays; label-free biochips; bead-based assay methods. Case studies and analysis of commercial biosensor. Same as BIOE 416. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 329.
+"
+https://courses.illinois.edu/schedule/terms/ECE/417,ECE 417   Multimedia Signal Processing   credit: 4 Hours. ,"
+Characteristics of speech and image signals; important analysis and synthesis tools for multimedia signal processing including subspace methods, Bayesian networks, hidden Markov models, and factor graphs; applications to biometrics (person identification), human-computer interaction (face and gesture recognition and synthesis), and audio-visual databases (indexing and retrieval). Emphasis on a set of MATLAB machine problems providing hands-on experience. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 310 and ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/418,ECE 418   Image & Video Processing   credit: 4 Hours. ,"
+Concepts and applications in image and video processing; introduction to multidimensional signal processing: sampling, Fourier transform, filtering, interpolation, and decimation; human visual perception; scanning and display of images and video; image enhancement, restoration and segmentation; digital image and video compression; image analysis. Laboratory exercises promote experience with topics and development of C and MATLAB programs. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 310; credit or concurrent registration in one of ECE 313, STAT 400, IE 300, MATH 461; MATH 415; experience with C programming language.
+"
+https://courses.illinois.edu/schedule/terms/ECE/419,ECE 419   Security Laboratory   credit: 3 or 4 Hours. ,"
+Same as CS 460. See CS 460.
+"
+https://courses.illinois.edu/schedule/terms/ECE/420,ECE 420   Embedded DSP Laboratory   credit: 2 Hours. ,"
+Development of real-time digital signal processing (DSP) systems using a DSP microprocessor; several structured laboratory exercises, such as sampling and digital filtering; followed by an extensive DSP project of the student's choice. 2 undergraduate hours. 2 graduate hours. Prerequisite: ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/422,ECE 422   Computer Security I   credit: 4 Hours. ,"
+Same as CS 461. See CS 461.
+"
+https://courses.illinois.edu/schedule/terms/ECE/424,ECE 424   Computer Security II   credit: 3 or 4 Hours. ,"
+Same as CS 463. See CS 463.
+"
+https://courses.illinois.edu/schedule/terms/ECE/425,ECE 425   Intro to VLSI System Design   credit: 3 Hours. ,"
+Complementary Metal-Oxide Semiconductor (CMOS) technology and theory; CMOS circuit and logic design; layout rules and techniques; circuit characterization and performance estimation; CMOS subsystem design; Very-Large-Scale Integrated (VLSI) systems design methods; VLSI Computer Aided Design (CAD) tools; workstation-based custom VLSI chip design using concepts of cell hierarchy; final project involving specification, design, and evaluation of a VLSI chip or VLSI CAD program; written report and oral presentation on the final project. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 385 and ECE 411; or CS 233.
+"
+https://courses.illinois.edu/schedule/terms/ECE/428,ECE 428   Distributed Systems   credit: 3 or 4 Hours. ,"
+Same as CS 425. See CS 425.
+"
+https://courses.illinois.edu/schedule/terms/ECE/431,ECE 431   Electric Machinery   credit: 4 Hours. ,"
+Theory and laboratory experimentation with three-phase power, power-factor correction, single- and three-phase transformers, induction machines, DC machines, and synchronous machines; project work on energy control systems; digital simulation of machine dynamics. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 330.
+"
+https://courses.illinois.edu/schedule/terms/ECE/432,ECE 432   Advanced Electric Machinery   credit: 3 Hours. ,"
+Advanced rotating machine theory and practice: dynamic analysis of machines using reference frame transformations; tests for parameter determination; reduced order modeling of machines; mechanical subsystems including governors, prime movers and excitation systems; digital simulation of inter-connected machines. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 431.
+"
+https://courses.illinois.edu/schedule/terms/ECE/434,ECE 434   Mobile Computing & Application   credit: 3 or 4 Hours. ,"
+Introduction to cross-disciplinary ideas and techniques in mobile computing, with an emphasis on how they can be composed to build systems and applications on smartphones, tablets, and wearable devices. Topics of interest include smartphone sensing, energy efficiency, indoor localization, augmented reality, context-awareness, gesture recognition, and data analytics. Various techniques and methods utilized to combine them into functional systems, propose a new system, define the underlying problems, and solve them end to end. Same as CS 434. 3 undergraduate hours. 4 graduate hours. Prerequisite: ECE 391, CS 241, or ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/435,ECE 435   Computer Networking Laboratory   credit: 3 or 4 Hours. ,"
+Same as CS 436. See CS 436.
+"
+https://courses.illinois.edu/schedule/terms/ECE/437,ECE 437   Sensors and Instrumentation   credit: 3 Hours. ,"
+Hands-on exposure to fundamental technology and practical application of sensors. Capacitive, inductive, optical, electromagnetic, and other sensing methods are examined. Instrumentation techniques incorporating computer control, sampling, and data collection and analysis are reviewed in the context of real-world scenarios. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 329.
+"
+https://courses.illinois.edu/schedule/terms/ECE/438,ECE 438   Communication Networks   credit: 3 or 4 Hours. ,"
+Same as CS 438. See CS 438.
+"
+https://courses.illinois.edu/schedule/terms/ECE/439,ECE 439   Wireless Networks   credit: 3 or 4 Hours. ,"
+Overview of wireless network architectures including cellular networks, local area networks, multi-hop wireless networks such as ad hoc networks, mesh networks, and sensor networks; capacity of wireless networks; medium access control, routing protocols, and transport protocols for wireless networks; mechanisms to improve performance and security in wireless networks; energy-efficient protocols for sensor networks. Same as CS 439. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS 241 or ECE 391; one of MATH 461, MATH 463, ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/441,ECE 441   Physcs & Modeling Semicond Dev   credit: 3 Hours. ,"
+Advanced concepts including generation-recombination, hot electron effects, and breakdown mechanisms; essential features of small ac characteristics, switching and transient behavior of p-n junctions, and bipolar and MOS transistors; fundamental issues for device modeling; perspective and limitations of Si-devices. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340.
+"
+https://courses.illinois.edu/schedule/terms/ECE/442,ECE 442   Silicon Photonics   credit: 3 or 4 Hours. ,"
+Overview of silicon integrated photonics in three sections: (1) fundamentals of waveguide optics and passive silicon photonic devices including wavelength filters, mode converters, polarization and dispersion management. (2) active silicon photonic devices based on carrier injection/depletion pn junction, photonic modulators, optical switches, photodetectors. (3) application of integrated silicon photonics in optical communications systems in short and long haul optical links and datacenters. Emerging applications in quantum computing, neuromoprhic computing and biosensing. 3 undergraduate hours. 4 graduate hours. Prerequisite: ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/443,ECE 443   LEDs and Solar Cells   credit: 4 Hours. ,"
+This course explores the energy conversion devices from fundamentals to system-levels including electronic structure of semiconductors; quantum physics; compound semiconductors; semiconductor heterostructures and low dimensional quantum structures; energy transfer between photons and electron-hole pairs; photon emission and capture processes; radiative and non-radiative processes; light extraction and trapping; emission and absorption engineering; electrical and optical modelling via numerical and TCAD simulation tools; hands-on characterization of modern light emitting diodes and solar cells. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 340.
+"
+https://courses.illinois.edu/schedule/terms/ECE/444,ECE 444   IC Device Theory & Fabrication   credit: 4 Hours. ,"
+Fabrication lab emphasizing physical theory and design of devices suitable for integrated circuitry; electrical properties of semiconductors and techniques (epitaxial growth, oxidation, photolithography diffusion, ion implantation, metallization, and characterization) for fabricating integrated circuit devices such as p-n junction diodes, bipolar transistors, and field effect transistors. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 340.
+"
+https://courses.illinois.edu/schedule/terms/ECE/445,ECE 445   Senior Design Project Lab   credit: 4 Hours. ,"
+Individual design projects in various areas of electrical and computer engineering; projects are chosen by students with approval of instructor. A professionally kept lab notebook, a written report, prepared to journal publication standards, and an oral presentation required. 4 undergraduate hours. No graduate credit. This course satisfies the General Education Criteria for:Advanced Composition"
+https://courses.illinois.edu/schedule/terms/ECE/446,ECE 446   Principles of Experimental Research in Electrical Engineering   credit: 4 Hours. ,"
+Interdisciplinary approach to learning principles of experimental research. Focuses on: 1) experimental design 2) prevalent experimental techniques 3) data organization, analysis, and presentation and 4) scientific computing. Presentation methods explored include poster session, conference talk, and journal paper. Open-ended labs and a project reinforce concepts discussed in class. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/447,ECE 447   Active Microwave Ckt Design   credit: 3 Hours. ,"
+Microwave circuit design of amplifiers, oscillators, and mixers. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350 and ECE 453.
+"
+https://courses.illinois.edu/schedule/terms/ECE/448,ECE 448   Artificial Intelligence   credit: 3 or 4 Hours. ,"
+Same as CS 440. See CS 440.
+"
+https://courses.illinois.edu/schedule/terms/ECE/449,ECE 449   Machine Learning   credit: 3 or 4 Hours. ,"
+Same as CS 446. See CS 446.
+"
+https://courses.illinois.edu/schedule/terms/ECE/451,ECE 451   Adv Microwave Measurements   credit: 3 Hours. ,"
+Manual- and computer-controlled laboratory analysis of circuits at microwave frequencies. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/452,ECE 452   Electromagnetic Fields   credit: 3 Hours. ,"
+Plane waves at oblique incidence; wave polarization; anisotropic media; radiation; space communications; waveguides. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/453,ECE 453   Wireless Communication Systems   credit: 4 Hours. ,"
+Design of a radio system for transmission of information; modulation, receivers, impedance matching, oscillators, two-port network analysis, receiver and antenna noise, nonlinear effects, mixers, phase-locked loops. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 329, credit or concurrent registration in ECE 342.
+"
+https://courses.illinois.edu/schedule/terms/ECE/454,ECE 454   Antennas   credit: 3 Hours. ,"
+Antenna parameters; polarization of electromagnetic waves; basic antenna types; antenna arrays; broadband antenna design; antenna measurements. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/455,ECE 455   Optical Electronics   credit: 3 or 4 Hours. ,"
+Optical beams and cavities; semiclassical theory of gain; characteristics of typical lasers (gas, solid state, and semiconductor); application of optical devices. 3 undergraduate hours. 4 graduate hours. Prerequisite: ECE 350 or PHYS 436.
+"
+https://courses.illinois.edu/schedule/terms/ECE/456,ECE 456   Global Nav Satellite Systems   credit: 4 Hours. ,"
+Engineering aspects of space-based navigation systems, such as the Global Positioning System (GPS). Engineering and physical principles on which GPS operates, including orbital dynamics, electromagnetic wave propagation in a plasma, signal encoding, receiver design, error analysis, and numerical methods for obtaining a navigation solution. GPS as a case study for performing an end-to-end analysis of a complex engineering system. Laboratory exercises focus on understanding receiver design and developing a MATLAB-based GPS receiver. Same as AE 456. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 329 and ECE 310 or AE 352 and AE 353.
+"
+https://courses.illinois.edu/schedule/terms/ECE/457,ECE 457   Microwave Devices & Circuits   credit: 3 Hours. ,"
+Electromagnetic wave propagation, microwave transmission systems, passive components, microwave tubes, solid state microwave devices, microwave integrated circuits, S-parameter analysis, and microstrip transmission lines. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340 and ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/458,ECE 458   Applic of Radio Wave Propag   credit: 3 Hours. ,"
+Terrestrial atmosphere, radio wave propagation, and applications to radio sensing and radio communication. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/459,ECE 459   Communications Systems   credit: 3 Hours. ,"
+Analog underpinning of analog and digital communication systems: representation of signals and systems in the time and frequency domains; analog modulation schemes; random processes; prediction and noise analysis using random processes; noise sensitivity and bandwidth requirements of modulation schemes. Brief introduction to digital communications. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/460,ECE 460   Optical Imaging   credit: 4 Hours. ,"
+Scalar fields, geometrical optics, wave optics, Gaussian beams, Fourier optics, spatial and temporal coherence, microscopy, interference chromatic and geometric aberrations, Jones matrices, waveplates, electromagnetic fields, and electro-optic and acousto-optic effects. Laboratory covers numerical signal processing, spectroscopy, ray optics, diffraction, Fourier optics, microscopy, spatial coherence, temporal coherence, polarimetry, fiber optics, electro-optic modulation and acousto-optic modulation. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 329; credit or concurrent registration in ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/461,ECE 461   Digital Communications   credit: 3 Hours. ,"
+Reliable communication of one bit of information over three types of channels: additive Gaussian noise, wireline, and wireless. Emphasis on the impact of bandwidth and power on the data rate and reliability, using discrete-time models. Technological examples used as case studies. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 210 and ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/462,ECE 462   Logic Synthesis   credit: 3 Hours. ,"
+Unate function theory, unate recursive paradigm, synthesis of two-level logic, synthesis of incompletely specified combinational logic, multi-level logic synthesis, binary decision diagrams, finite state machine synthesis, automatic test pattern generation and design for test, equivalence checking and reachability analysis of finite machines, and technology mapping. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 220 or CS 233.
+"
+https://courses.illinois.edu/schedule/terms/ECE/463,ECE 463   Digital Communications Lab   credit: 2 Hours. ,"
+Hands-on experience in the configuration and performance evaluation of digital communication systems employing both radio and optical signals. 2 undergraduate hours. 2 graduate hours. Prerequisite: ECE 361 or ECE 459.
+"
+https://courses.illinois.edu/schedule/terms/ECE/464,ECE 464   Power Electronics   credit: 3 Hours. ,"
+Switching functions and methods of control such as pulse-width modulation, phase control, and phase modulation; dc-dc, ac-dc, dc-ac, and ac-ac power converters; power components, including magnetic components and power semiconductor switching devices. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 342.
+"
+https://courses.illinois.edu/schedule/terms/ECE/465,ECE 465   Optical Communications Systems   credit: 3 Hours. ,"
+Fundamentals of lightwave systems: characterization of lightwave channels, optical transmitters, receivers, and amplifiers; quantum and thermal noise processes; design of optical receivers; multimode and single-mode link analysis. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 313 and ECE 350. Recommended: credit or concurrent registration in ECE 459 and ECE 466.
+"
+https://courses.illinois.edu/schedule/terms/ECE/466,ECE 466   Optical Communications Lab   credit: 1 Hour. ,"
+Fiber components and measurements, transmitters and detectors, fiber amplifiers, multimode fiber links, and wavelength division multiplexing. 1 undergraduate hour. 1 graduate hour. Prerequisite: Credit or concurrent registration in ECE 465.
+"
+https://courses.illinois.edu/schedule/terms/ECE/467,ECE 467   Biophotonics   credit: 3 Hours. ,"
+Overview of the field of biophotonics, in three segments: (1) fundamental principles of light, optics, lasers, biology, and medicine; (2) diagnostic biophotonics including imaging, spectroscopy, and optical biosensors; (3) therapeutic applications of biophotonics including laser ablation and photodynamic therapies. Reviews and presentations of current scientific literature by students. Tours of microscopy facilities. Same as BIOE 467. 3 undergraduate hours. 3 graduate hours. Prerequisite: One of ECE 455, ECE 460, PHYS 402.
+"
+https://courses.illinois.edu/schedule/terms/ECE/468,ECE 468   Optical Remote Sensing   credit: 3 Hours. ,"
+Optical sensors including single element and area arrays (CCDs); optical systems including imagers, spectrometers, interferometers, and lidar; optical principles and light gathering power; electromagnetics of atomic and molecular emission and scattering with applications to the atmosphere the prime example; applications to ground and spacecraft platforms. Four laboratory sessions (4.5 hours each) arranged during term in lieu of four lectures. Same as AE 468. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 329, ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/469,ECE 469   Power Electronics Laboratory   credit: 2 Hours. ,"
+Circuits and devices used for switching power converters, solid-state motor drives, and power controllers; dc-dc, ac-dc, and dc-ac converters and applications; high-power transistors and magnetic components; design considerations including heat transfer. 2 undergraduate hours. 2 graduate hours. Prerequisite: ECE 343; credit or concurrent registration in ECE 464.
+"
+https://courses.illinois.edu/schedule/terms/ECE/470,ECE 470   Introduction to Robotics   credit: 4 Hours. ,"
+Fundamentals of robotics including rigid motions; homogeneous transformations; forward and inverse kinematics; velocity kinematics; motion planning; trajectory generation; sensing, vision; control. Same as AE 482 and ME 445. 4 undergraduate hours. 4 graduate hours. Prerequisite: One of MATH 225, MATH 286, MATH 415, MATH 418.
+"
+https://courses.illinois.edu/schedule/terms/ECE/472,ECE 472   Biomedical Ultrasound Imaging   credit: 3 Hours. ,"
+Theoretical and engineering foundations of ultrasonic imaging for medical diagnostics. Conventional, Doppler, and advanced ultrasonic imaging techniques; medical applications of different ultrasonic imaging techniques; engineering problems related to characterization of ultrasonic sources and arrays, image production, image quality, the role of contrast agents in ultrasonic imaging, and system design. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 329.
+"
+https://courses.illinois.edu/schedule/terms/ECE/473,ECE 473   Fund of Engrg Acoustics   credit: 3 or 4 Hours. ,"
+Development of the basic theoretical concepts of acoustical systems; mechanical vibration, plane and spherical wave phenomena in fluid media, lumped and distributed resonant systems, and absorption phenomena and hearing. Same as TAM 413. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: MATH 285 or MATH 286.
+"
+https://courses.illinois.edu/schedule/terms/ECE/476,ECE 476   Power System Analysis   credit: 3 Hours. ,"
+Development of power system equivalents by phase network analysis, load flow, symmetrical components, sequence networks, fault analysis, and digital simulation. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 330.
+"
+https://courses.illinois.edu/schedule/terms/ECE/478,ECE 478   Formal Software Development Methods   credit: 3 or 4 Hours. ,"
+Same as CS 477. See CS 477.
+"
+https://courses.illinois.edu/schedule/terms/ECE/480,ECE 480   Magnetic Resonance Imaging   credit: 3 or 4 Hours. ,"
+Fundamental physical, mathematical, and computational principles governing the data acquisition and image reconstruction of magnetic resonance imaging. Same as BIOE 480. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Recommended: ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/481,ECE 481   Nanotechnology   credit: 4 Hours. ,"
+Fundamental physical properties of nanoscale systems. Nanofabrication techniques, semiconductor nanotechnology, molecular and biomolecular nanotechnology, carbon nanotechnology (nanotubes and graphene), nanowires, and nanoscale architectures and systems. 4 undergraduate hours. 4 graduate hours. Prerequisite: One of CHEM 442, CHBE 457, ME 485, MSE 401, PHYS 460.
+"
+https://courses.illinois.edu/schedule/terms/ECE/482,ECE 482   Digital IC Design   credit: 3 Hours. ,"
+Bipolar and MOS field effect transistor characteristics; VLSI fabrication techniques for MOS and bipolar circuits; calculation of circuit parameters from the process parameters; design of VLSI circuits such as logic, memories, charge-coupled devices, and A/D and D/A converters. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 342.
+"
+https://courses.illinois.edu/schedule/terms/ECE/483,ECE 483   Analog IC Design   credit: 3 Hours. ,"
+Basic linear integrated circuit design techniques using bi-polar, JFET, and MOS technologies; operational amplifiers; wide-band feedback amplifiers; sinusoidal and relaxation oscillators; electric circuit noise; application of linear integrated circuits. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 342.
+"
+https://courses.illinois.edu/schedule/terms/ECE/484,ECE 484   Principles of Safe Autonomy   credit: 4 Hours. ,"
+Introduces techniques for building autonomous systems such as autonomous cars, delivery drones, and manufacturing robots, and techniques for performing their safety analysis. Covers key algorithms and approaches in perception, modeling, motion planning, control, and safety analysis, with a view towards understanding their basic assumptions and performance guarantees. Also provides exposure to some of the state-of-the-art software tools for control, simulation, and analysis. Students will get experience through labs, programming assignments, and they will perform hands-on laboratory work on the Polaris GEM autonomous vehicle platform. Course material is distilled from recent research papers; thus, there is no required textbook. 4 undergraduate hours. 4 graduate hours. Prerequisite: CS 124, ECE 220 or equivalent; ECE313, IE300, or STAT400. A course on data structures, algorithms, differential equations, and linear algebra is recommended.
+"
+https://courses.illinois.edu/schedule/terms/ECE/485,ECE 485   MEMS Devices & Systems   credit: 3 Hours. ,"
+Introduction to principles, fabrication techniques, and applications of microelectromechanical systems (MEMS). In-depth analysis of sensors, actuator principles, and integrated microfabrication techniques for MEMS. Comprehensive investigation of state-of-the-art MEMS devices and systems. Same as ME 485. 3 undergraduate hours. 3 graduate hours.
+"
+https://courses.illinois.edu/schedule/terms/ECE/486,ECE 486   Control Systems   credit: 4 Hours. ,"
+Analysis and design of control systems with emphasis on modeling, state variable representation, computer solutions, modern design principles, and laboratory techniques. 4 undergraduate hours. 4 graduate hours. Prerequisite: ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/487,ECE 487   Intro Quantum Electr for EEs   credit: 3 Hours. ,"
+Application of quantum mechanical concepts to electronics problems; detailed analysis of a calculable two-state laser system; incidental quantum ideas bearing on electronics. 3 undergraduate hours. 3 graduate hours. Prerequisite: PHYS 485.
+"
+https://courses.illinois.edu/schedule/terms/ECE/488,ECE 488   Compound Semicond & Devices   credit: 3 Hours. ,"
+Advanced semiconductor materials and devices; elementary band theory; heterostructures; transport issues; three-terminal devices; two-terminal devices; including lasers and light modulators. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 340 and ECE 350.
+"
+https://courses.illinois.edu/schedule/terms/ECE/489,ECE 489   Robot Dynamics and Control   credit: 4 Hours. ,"
+Same as ME 446 and SE 422. See SE 422.
+"
+https://courses.illinois.edu/schedule/terms/ECE/490,ECE 490   Introduction to Optimization   credit: 3 or 4 Hours. ,"
+Basic theory and methods for the solution of optimization problems; iterative techniques for unconstrained minimization; linear and nonlinear programming with engineering applications. Same as CSE 441. 3 undergraduate hours. 4 graduate hours. Prerequisite: ECE 220 and MATH 415.
+"
+https://courses.illinois.edu/schedule/terms/ECE/491,ECE 491   Numerical Analysis   credit: 3 or 4 Hours. ,"
+Same as CS 450, CSE 401 and MATH 450. See CS 450.
+"
+https://courses.illinois.edu/schedule/terms/ECE/492,ECE 492   Parallel Progrmg: Sci & Engrg   credit: 3 or 4 Hours. ,"
+Same as CS 420 and CSE 402. See CS 420.
+"
+https://courses.illinois.edu/schedule/terms/ECE/493,ECE 493   Advanced Engineering Math   credit: 3 or 4 Hours. ,"
+Same as MATH 487. See MATH 487.
+"
+https://courses.illinois.edu/schedule/terms/ECE/495,ECE 495   Photonic Device Laboratory   credit: 3 Hours. ,"
+Active photonic devices and lightwave technology. Hands-on experience with several classes of lasers (HeNe laser, semiconductor edge emitting lasers, vertical cavity surface emitting lasers), photodetectors, and photonic systems. Familiarization with experimental optical characterization techniques and equipment. 3 undergraduate hours. 3 graduate hours. Prerequisite: ECE 487 recommended.
+"
+https://courses.illinois.edu/schedule/terms/ECE/496,ECE 496   Senior Research Project   credit: 2 Hours. ,"
+Individual research project under the guidance of a faculty member: for example, mathematical analysis, laboratory experiments, computer simulations, software development, circuit design, or device fabrication. Preparation of a written research proposal, including preliminary results. 2 undergraduate hours. No graduate credit. May be repeated. ECE 496 and ECE 499 taken in sequence fulfill the Advanced Composition Requirement. Prerequisite: RHET 105; consent of instructor. This course satisfies the General Education Criteria for:Advanced Composition"
+https://courses.illinois.edu/schedule/terms/ECE/498,ECE 498   Special Topics in ECE   credit: 0 to 4 Hours. ,"
+Subject offerings of new and developing areas of knowledge in electrical and computer engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. 0 to 4 undergraduate hours. 0 to 4 graduate hours. May be repeated in the same or separate terms if topics vary.
+"
+https://courses.illinois.edu/schedule/terms/ECE/499,ECE 499   Senior Thesis   credit: 2 Hours. ,"
+Completion of the research project begun under ECE 496. Preparation and oral presentation of a written thesis that reports the results of the project. 2 undergraduate hours. No graduate credit. To fulfill the Advanced Composition Requirement, credit must be earned for both ECE 496 and ECE 499. Prerequisite: ECE 496 and consent of instructor.This course satisfies the General Education Criteria for:Advanced Composition"
+https://courses.illinois.edu/schedule/terms/ECE/500,ECE 500   ECE Colloquium   credit: 0 Hours. ,"
+Required of all graduate students. Approved for S/U grading only.
+"
+https://courses.illinois.edu/schedule/terms/ECE/508,ECE 508   Manycore Parallel Algorithms   credit: 4 Hours. ,"
+Algorithm techniques for enhancing the scalability of parallel software: scatter vs. gather, problem decomposition, spatial sorting and binning, privatization for reduced conflicts, tiling for data locality, regularization for improved load balance, compaction to conserve memory bandwidth, double-buffering to overlap latencies, and data layout for improved efficiency of DRAM accesses. Same as CS 508. 4 graduate hours. No professional credit. Prerequisite: ECE 408 or CS 420.
+"
+https://courses.illinois.edu/schedule/terms/ECE/511,ECE 511   Computer Architecture   credit: 4 Hours. ,"
+Advanced concepts in computer architecture: design, management, and modeling of memory hierarchies; stack-oriented processors; associative processors; pipelined computers; and multiple processor systems. Emphasis on hardware alternatives in detail and their relation to system performance and cost. Same as CSE 521. Prerequisite: ECE 411 or CS 433.
+"
+https://courses.illinois.edu/schedule/terms/ECE/512,ECE 512   Computer Microarchitecture   credit: 4 Hours. ,"
+Design of high performance computer systems; instruction level concurrency; memory system implementation; pipelining, superscalar, and vector processing; compiler back-end code optimization; profile assisted code transformations; code generation and machine dependent code optimization; cache memory design for multiprocessors; synchronization implementation in multiprocessors; compatibility issues; technology factors; state-of-the-art commercial systems. Prerequisite: ECE 511 and CS 426.
+"
+https://courses.illinois.edu/schedule/terms/ECE/513,ECE 513   Vector Space Signal Processing   credit: 4 Hours. ,"
+Mathematical tools in a vector space framework, including: finite and infinite dimensional vector spaces, Hilbert spaces, orthogonal projections, subspace techniques, least-squares methods, matrix decomposition, conditioning and regularizations, bases and frames, the Hilbert space of random variables, random processes, iterative methods; applications in signal processing, including inverse problems, filter design, sampling, interpolation, sensor array processing, and signal and spectral estimation. Prerequisite: ECE 310, ECE 313, and MATH 415.
+"
+https://courses.illinois.edu/schedule/terms/ECE/515,ECE 515   Control System Theory & Design   credit: 4 Hours. ,"
+Feedback control systems emphasizing state space techniques. Basic principles, modeling, analysis, stability, structural properties, optimization, and design to meet specifications. Same as ME 540. Prerequisite: ECE 486.
+"
+https://courses.illinois.edu/schedule/terms/ECE/517,ECE 517   Nonlinear & Adaptive Control   credit: 4 Hours. ,"
+Design of nonlinear control systems based on stability considerations; Lyapunov and hyperstability approaches to analysis and design of model reference adaptive systems; identifiers, observers, and controllers for unknown plants. Prerequisite: ECE 515.
+"
+https://courses.illinois.edu/schedule/terms/ECE/518,ECE 518   Adv Semiconductor Nanotech   credit: 4 Hours. ,"
+Semiconductor nanotechnology from the formation and characterization of low-dimensional structures to device applications. Compound semiconductors, epitaxial growth, quantum dots, nanowires, membranes, strain effect, quantum confinement, surface states, 3D transistors, nanolasers, multijunction tandem solar cells, and nanowire thermoelectrics. Handouts are supplemented with papers from the research literature. Critical literature review assignments, research proposals in National Science Foundation format, and oral presentations are required. Prerequisites: ECE 340, ECE 444, and ECE 481.
+"
+https://courses.illinois.edu/schedule/terms/ECE/519,ECE 519   Hardware Verification   credit: 4 Hours. ,"
+This course teaches algorithms for verification that are applied to very large scale hardware in the chip design industry. The course teaches symbolic model checking, Binary decision diagrams (BDDs), satisfiability (SAT) based algorithms, symbolic simulation, coverage metrics for simulation, automatic assertion generation, analog circuit verification and post Silicon validation algorithms. The course teaches scalable search algorithms that can be applied to discrete and continuous space models. Same as CS 585. 4 graduate hours. No professional credit.
+"
+https://courses.illinois.edu/schedule/terms/ECE/520,ECE 520   EM Waves & Radiating Systems   credit: 4 Hours. ,"
+Fundamental electromagnetic theory with applications to plane waves, waveguides, cavities, antennas, and scattering; electromagnetic principles and theorems; and solution of electromagnetic boundary-value problems.
+"
+https://courses.illinois.edu/schedule/terms/ECE/523,ECE 523   Plasma Technology of Gaseous Electronics   credit: 4 Hours. ,"
+Same as NPRE 527. See NPRE 527.
+"
+https://courses.illinois.edu/schedule/terms/ECE/524,ECE 524   Advanced Computer Security   credit: 4 Hours. ,"
+Same as CS 563. See CS 563.
+"
+https://courses.illinois.edu/schedule/terms/ECE/526,ECE 526   Distributed Algorithms   credit: 4 Hours. ,"
+Theoretical aspects of distributed algorithms, with an emphasis on formal proofs of correctness and theoretical performance analysis. Algorithms for consensus, clock synchronization, mutual exclusion, debugging of parallel programs, peer-to-peer networks, and distributed function computation; fault-tolerant distributed algorithms; distributed algorithms for wireless networks. Same as CS 539. 4 graduate hours. No professional credit. Prerequisite: One of CS 473, ECE 428, ECE 438.
+"
+https://courses.illinois.edu/schedule/terms/ECE/527,ECE 527   System-On-Chip Design   credit: 4 Hours. ,"
+System-on-chip (SOC) design methodology and IP (intellectual property) reuse, system modeling and analysis, hardware/software co-design, behavioral synthesis, embedded software, reconfigurable computing, design verification and test, and design space exploration. Class projects focusing on current SOC design and research. Platform FPGA boards and digital cameras are provided to prototype, test, and evaluate SOC designs. Prerequisite: ECE 391 and ECE 425.
+"
+https://courses.illinois.edu/schedule/terms/ECE/528,ECE 528   Analysis of Nonlinear Systems   credit: 4 Hours. ,"
+Nonlinear dynamics, vector fields and flows, Lyapunov stability theory, regular and singular perturbations, averaging, integral manifolds, input-output and input-to-state stability, and various design applications in control systems and robotics. Same as ME 546 and SE 520. 4 graduate hours. No professional credit. Prerequisite: ECE 515 and MATH 444 or MATH 447.
+"
+https://courses.illinois.edu/schedule/terms/ECE/530,ECE 530   Large-Scale System Analysis   credit: 4 Hours. ,"
+Fundamental techniques for the analysis of large-scale electrical systems, including methods for nonlinear and switched systems. Emphasis on the importance of the structural characteristics of such systems. Key aspects of static and dynamic analysis methods. Prerequisite: ECE 464 and ECE 476.
+"
+https://courses.illinois.edu/schedule/terms/ECE/531,ECE 531   Theory of Guided Waves   credit: 4 Hours. ,"
+Propagation of electromagnetic waves in general cylindrical waveguides; stationary principles; non-uniform inhomogeneously filled waveguides; mode and power orthogonality; losses in waveguides; analytical and numerical techniques; microwave integrated circuits waveguides; optical waveguides. Prerequisite: ECE 520. Recommended: MATH 556.
+"
+https://courses.illinois.edu/schedule/terms/ECE/532,ECE 532   Compnd Semicond & Diode Lasers   credit: 4 Hours. ,"
+Compound semiconductor materials and their optical properties. Diode lasers including quantum well heterostructure lasers, strained layer lasers, and quantum wire and quantum dot lasers. Current topics in diode laser development. Prerequisite: ECE 340 and PHYS 486. Recommended: ECE 455; credit or concurrent registration in ECE 536.
+"
+https://courses.illinois.edu/schedule/terms/ECE/534,ECE 534   Random Processes   credit: 4 Hours. ,"
+Basic concepts of random processes; linear systems with random inputs; Markov processes; spectral analysis; Wiener and Kalman filtering; applications to systems engineering. Prerequisite: One of ECE 313, MATH 461, STAT 400.
+"
+https://courses.illinois.edu/schedule/terms/ECE/535,ECE 535   Theory of Semicond & Devices   credit: 4 Hours. ,"
+Introductory quantum mechanics of semiconductors; energy bands; dynamics of Block electrons in static and high-frequency electric and magnetic fields; equilibrium statistics; transport theory, diffusion, drift, and thermoelectric effects; characteristics of p-n junctions, heterojunctions, and transistor devices. Same as PHYS 565. Prerequisite: Senior-level course in quantum mechanics or atomic physics.
+"
+https://courses.illinois.edu/schedule/terms/ECE/536,ECE 536   Integ Optics & Optoelectronics   credit: 4 Hours. ,"
+Integrated optical and optoelectronic devices; theory of optical devices including laser sources, waveguides, photodetectors, and modulations of these devices. Prerequisite: One of ECE 455, ECE 487, PHYS 486. Recommended: ECE 488.
+"
+https://courses.illinois.edu/schedule/terms/ECE/537,ECE 537   Speech Processing Fundamentals   credit: 4 Hours. ,"
+Development of an intuitive understanding of speech processing by the auditory system, in three parts. I): The theory of acoustics of speech production, introductory acoustic phonetics, inhomogeneous transmission line theory (and reflectance), room acoustics, the short-time Fourier Transform (and its inverse), and signal processing of speech (LPC, CELP, VQ). II): Psychoacoustics of speech perception, critical bands, masking (JNDs), and the physiology of the auditory pathway (cochlear modeling). III): Information theory entropy, channel capacity, the confusion matrix, state models, EM algorithms, and Bayesian networks. Presentation of classic papers on speech processing and speech perception by student groups. MATLAB (or equivalent) programming in majority of assignments. Prerequisite: ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/539,ECE 539   Adv Theory Semicond & Devices   credit: 4 Hours. ,"
+Advanced topics of current interest in the physics of semiconductors and solid-state devices. Prerequisite: ECE 535.
+"
+https://courses.illinois.edu/schedule/terms/ECE/540,ECE 540   Computational Electromagnetics   credit: 4 Hours. ,"
+Basic computational techniques for numerical analysis of electromagnetics problems, including the finite difference, finite element, and moment methods. Emphasis on the formulation of physical problems into mathematical boundary-value problems, numerical discretization of continuous problems into discrete problems, and development of rudimentary computer codes for simulation of electromagnetic fields in engineering problems using each of these techniques. Same as CSE 530. Prerequisite: CS 357; credit or concurrent registration in ECE 520.
+"
+https://courses.illinois.edu/schedule/terms/ECE/541,ECE 541   Computer Systems Analysis   credit: 4 Hours. ,"
+Development of analytical models of computer systems and application of such models to performance evaluation: scheduling policies, paging algorithms, multiprogrammed resource management, and queuing theory. Same as CS 541. Prerequisite: One of ECE 313, MATH 461, MATH 463.
+"
+https://courses.illinois.edu/schedule/terms/ECE/542,ECE 542   Fault-Tolerant Dig Syst Design   credit: 4 Hours. ,"
+Advanced concepts in hardware and software fault tolerance: fault models, coding in computer systems, module and system level fault detection mechanism, reconfiguration techniques in multiprocessor systems and VLSI processor arrays, and software fault tolerance techniques such as recovery blocks, N-version programming, checkpointing, and recovery; survey of practical fault-tolerant systems. Same as CS 536. Prerequisite: ECE 411.
+"
+https://courses.illinois.edu/schedule/terms/ECE/543,ECE 543   Statistical Learning Theory   credit: 4 Hours. ,"
+Advanced graduate course on modern probabilistic theory of adaptive and learning systems. The following topics will be covered; basics of statistical decision theory; concentration inequalities; supervised and unsupervised learning; empirical risk minimization; complexity-regularized estimation; generalization bounds for learning algorithms; VC dimension and Rademacher complexities; minimax lower bounds; online learning and optimization. Along with the general theory, the course will discuss applications of statistical learning theory to signal processing, information theory, and adaptive control. Basic prerequisites include probability and random processes, calculus, and linear algebra. Other necessary material and background will be introduced as needed. 4 graduate hours. No professional credit. Prerequisite: ECE 534 or equivalent.
+"
+https://courses.illinois.edu/schedule/terms/ECE/544,ECE 544   Topics in Signal Processing   credit: 4 Hours. ,"
+Lectures and discussions related to advanced topics and new areas of interest in signal processing: speech, image, and multidimensional processing. May be repeated 8 hours in a term to a total of 20 hours. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the ECE department. Prerequisite: As specified each term. It is expected that each offering will have a 500-level course as prerequisite or co-requisite.
+"
+https://courses.illinois.edu/schedule/terms/ECE/545,ECE 545   Advanced Physical Acoustics   credit: 4 Hours. ,"
+Advanced topics in acoustics including physical properties of a fluid; linear propagation phenomena; nonlinear phenomena such as radiation force, streaming, and harmonic generation; cavitation; absorption and dispersion. Prerequisite: One of ECE 473, ECE 520, TAM 518.
+"
+https://courses.illinois.edu/schedule/terms/ECE/546,ECE 546   Advanced Signal Integrity   credit: 4 Hours. ,"
+Signal integrity aspects involved in the design of high-speed computers and high-frequency circuits; addressing the functions of limitations of interconnects for system-level integration. Topics explored include packaging structures, power and signal distribution, power level fluctuations, skin effect, parasitics, noise, packaging hierarch, multilayer wiring structures as well as the modeling and simulation of interconnects through the use of computer-aided design (CAD) and computational electromagnetics. Prerequisite: ECE 520.
+"
+https://courses.illinois.edu/schedule/terms/ECE/547,ECE 547   Topics in Image Processing   credit: 4 Hours. ,"
+Fundamental concepts, techniques, and directions of research in image processing: two-dimensional Fourier transform and filtering, image digitization, coding, restoration, reconstruction, analysis, and recognition. Same as CSE 543. Prerequisite: ECE 310 and ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/548,ECE 548   Models of Cognitive Processes   credit: 4 Hours. ,"
+Same as CS 548. See CS 548.
+"
+https://courses.illinois.edu/schedule/terms/ECE/549,ECE 549   Computer Vision   credit: 4 Hours. ,"
+Information processing approaches to computer vision, algorithms, and architectures for artificial intelligence and robotics systems capable of vision: inference of three-dimensional properties of a scene from its images, such as distance, orientation, motion, size and shape, acquisition, and representation of spatial information for navigation and manipulation in robotics. Same as CS 543. Prerequisite: ECE 448 or CS 225.
+"
+https://courses.illinois.edu/schedule/terms/ECE/550,ECE 550   Advanced Robotic Planning   credit: 4 Hours. ,"
+Computational approaches to robot motion planning, configuration space, algebraic decompositions, artificial potential fields, retraction, approximate decompositions, planning under uncertainty, grasp planning, and task-level planning. Same as AE 583. Prerequisite: ECE 470.
+"
+https://courses.illinois.edu/schedule/terms/ECE/551,ECE 551   Digital Signal Processing II   credit: 4 Hours. ,"
+Basic concept review of digital signals and systems; computer-aided digital filter design, quantization effects, decimation and interpolation, and fast algorithms for convolution and the DFT; introduction to adaptive signal processing. Prerequisite: ECE 310 and ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/552,ECE 552   Numerical Circuit Analysis   credit: 4 Hours. ,"
+Formulation of circuit equations; sparse matrix algorithms for the solution of large systems, AC, DC, and transient analysis of electrical circuits; sensitivity analysis; decomposition methods. Same as CSE 532. Prerequisite: MATH 415 and ECE 210.
+"
+https://courses.illinois.edu/schedule/terms/ECE/553,ECE 553   Optimum Control Systems   credit: 4 Hours. ,"
+Theoretical and algorithmic foundations of deterministic optimal control theory, including calculus of variations, maximum principle, and principle of optimality; the Linear-Quadratic-Gaussian design; differential games and H-infinity optimal control design. Prerequisite: ECE 313 and ECE 515.
+"
+https://courses.illinois.edu/schedule/terms/ECE/554,ECE 554   Dynamic System Reliability   credit: 4 Hours. ,"
+Reliability and dynamic performance evaluation for large-scale and complex systems; building on system-theoretic modeling, analysis, and design techniques. Design methods for reliability including architecture design and filter-based fault detection and isolation. Analytical methods for optimal redundancy allocation, sensitivity analysis methods for iterative system design, and other techniques for design optimization. Mechatronic systems used in aircraft and automotive, power electronic systems, and electrical power systems are examples of applications discussed. Same as ME 544. Prerequisite: ECE 313 and ECE 515, or permission of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/555,ECE 555   Control of Stochastic Systems   credit: 4 Hours. ,"
+Stochastic control models; development of control laws by dynamic programming; separation of estimation and control; Kalman filtering; self-tuning regulators; dual controllers; decentralized control. Prerequisite: ECE 515 and ECE 534.
+"
+https://courses.illinois.edu/schedule/terms/ECE/556,ECE 556   Coding Theory   credit: 4 Hours. ,"
+Coding theory with emphasis on the algebraic theory of cyclic codes using finite field arithmetic, decoding of BCH and RS codes, finite field Fourier transform and algebraic geometry codes, convolutional codes, and trellis decoding algorithms. Prerequisite: MATH 417.
+"
+https://courses.illinois.edu/schedule/terms/ECE/557,ECE 557   Geometric Control Theory   credit: 4 Hours. ,"
+Graduate course on mathematical theory of control and optimization, with a focus on geometric and topological methods. The following topics will be covered: introduction to the basics of differential geometric, Riemannian geometry, algebraic topology and Lie group theory. Control systems on manifolds. Controllability and observability of nonlinear systems. Optimization on manifolds and Lie groups and their applications in signal processing and learning. Control of non-holonomic systems and mechanical systems, rigid body dynamics. Optimal control on manifolds and Lie groups. Feedback linearization and feedback invariants. Introduction to quantum control. 4 graduate hours. No professional credit. Prerequisite: ECE 515 or equivalent is required. A course on state-space control theory, multivariable calculus, linear algebra and overall mathematical maturity are recommended.
+"
+https://courses.illinois.edu/schedule/terms/ECE/558,ECE 558   Digital Imaging   credit: 4 Hours. ,"
+Multidimensional signals, convolution, transforms, sampling, and interpolation; design of two-dimensional digital filters; sensor array processing and range-doppler imaging; applications to synthetic aperture radar, optics, tomography, radio astronomy, and beam-forming sonar; image estimation from partial data. Prerequisite: ECE 310 and ECE 313.
+"
+https://courses.illinois.edu/schedule/terms/ECE/559,ECE 559   Topics in Communications   credit: 4 Hours. ,"
+Lectures and discussion related to advanced topics and new areas of interest in the theory of communication systems: information theory, coding theory, and communication network theory. May be repeated in the same term, if topics vary, to a maximum of 12 graduate hours; may be repeated in separate terms, if topics vary, to a maximum of 16 graduate hours. Credit toward a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the ECE department. Prerequisite: As specified each term. (It is expected that each offering will have a 500-level course as a prerequisite or co-requisite.).
+"
+https://courses.illinois.edu/schedule/terms/ECE/560,ECE 560   VLSI in DSP & Communication   credit: 4 Hours. ,"
+Basic concepts in digital signal processing, VLSI design methodologies, VLSI DSP building blocks; algorithm transformation and mapping techniques, high-speed, low-power transforms, applications to digital filtering; basics of finite-field arithmetic, forward-error correction algorithms, and architectures; DSP implementation platforms, programmable DSPs, media processors, FPGAs, ASICs, case studies of multimedia communications systems, video codecs, xDSL, and cable modems. Homework and a term project apply these concepts in the design of VLSI architectures for digital signal processing and communication systems. Prerequisite: ECE 310.
+"
+https://courses.illinois.edu/schedule/terms/ECE/561,ECE 561   Detection & Estimation Theory   credit: 4 Hours. ,"
+Detection and estimation theory, with applications to communication, control, and radar systems; decision-theory concepts and optimum-receiver principles; detection of random signals in noise, coherent and noncoherent detection; parameter estimation, linear and nonlinear estimation, and filtering. Prerequisite: ECE 534.
+"
+https://courses.illinois.edu/schedule/terms/ECE/562,ECE 562   Advanced Digital Communication   credit: 4 Hours. ,"
+Digital communication systems modulation, demodulation, signal space methods, channel models, bit error rate, spectral occupancy, synchronization, equalization, trellis-coded modulation, wireless channels, multiantenna systems, spread spectrum, and orthogonal frequency modulation. 4 graduate hours. No professional credit. Prerequisite: ECE 461 or ECE 459.
+"
+https://courses.illinois.edu/schedule/terms/ECE/563,ECE 563   Information Theory   credit: 4 Hours. ,"
+Mathematical models for channels and sources; entropy, information, data compression, channel capacity, Shannon's theorems, and rate-distortion theory. Prerequisite: One of ECE 534, MATH 464, MATH 564.
+"
+https://courses.illinois.edu/schedule/terms/ECE/564,ECE 564   Modern Light Microscopy   credit: 4 Hours. ,"
+Current research topics in modern light microscopy: optics principles (statistical optics, Gaussian optics, elastic light scattering, dynamic light scattering); traditional microscopy (bright field, dark field, DIC, phase contract, confocal, epi-fluorescence, confocal fluorescence); current research topics (multiphoton, CARS, STED, FRET, FIONA, STORM, PALM, quantitative phase). Prerequisite: One of ECE 460, MSE 405, PHYS 402.
+"
+https://courses.illinois.edu/schedule/terms/ECE/566,ECE 566   Computational Inference and Learning   credit: 4 Hours. ,"
+Computational inference and machine learning have seen a surge of interest in the last 15 years, motivated by applications as diverse as computer vision, speech recognition, analysis of networks and distributed systems, big-data analytics, large-scale computer simulations, and indexing and searching of very large databases. This course introduces the mathematical and computational methods that enable such applications. Topics include computational methods for statistical inference, sparsity analysis, approximate inference and search, and fast optimization. 4 graduate hours. No professional credit. Prerequisite: ECE 490, ECE 534.
+"
+https://courses.illinois.edu/schedule/terms/ECE/567,ECE 567   Communication Network Analysis   credit: 4 Hours. ,"
+Performance analysis and design of multiple-user communication systems; emphasis on rigorous formulation and analytical and computational methods; includes queuing networks, decentralized minimum delay routing, and dynamic network flow control. Prerequisite: CS 438; one of ECE 534, MATH 464, MATH 564.
+"
+https://courses.illinois.edu/schedule/terms/ECE/568,ECE 568   Model & Cntrl Electromech Syst   credit: 4 Hours. ,"
+Fundamental electrical and mechanical laws for derivation of machine models; simplifying transformations of variables in electrical machines; power electronics for motor control; time-scale separation; feedback linearization and nonlinear control as applied to electrical machines. Typical electromechanical applications in actuators, robotics, and variable speed drives. Prerequisite: ECE 431 and ECE 515.
+"
+https://courses.illinois.edu/schedule/terms/ECE/569,ECE 569   Inverse Problems in Optics   credit: 4 Hours. ,"
+Physical optics, solution of linear inverse problems, and computed imaging. Forward problems in diffraction, asymptotics, ray propagation, x-ray projections, scattering, sources, optical coherence tomography, and near-field optics. Solution of associated inverse problems including back-propagation, back-projection, Radon transforms (x-ray CT), inverse scattering, source localization, interferometric synthetic aperture microscopy, and near-field tomography. Special topics as time permits. Prerequisite: ECE 460.
+"
+https://courses.illinois.edu/schedule/terms/ECE/570,ECE 570   Nonlinear Optics   credit: 4 Hours. ,"
+Light propagation in anisotropic crystals; second- and third-order nonlinear susceptibility and electro-optic effect; discussion of the relationship of these effects along with such applications as light modulation, harmonic generation, and optical parametric amplification and oscillation. Prerequisite: ECE 520.
+"
+https://courses.illinois.edu/schedule/terms/ECE/571,ECE 571   EM Waves in Inhomogen Media   credit: 4 Hours. ,"
+Electromagnetic waves in layered media; plane wave expansion of electromagnetic point source field; Sommerfeld integrals; transient response; WKB method with asymptotic matching; scattering by junction discontinuity; surface integral equation; volume integral equation; inverse problems. Prerequisite: MATH 446; ECE 520 or PHYS 505.
+"
+https://courses.illinois.edu/schedule/terms/ECE/572,ECE 572   Quantum Opto-Electronics   credit: 4 Hours. ,"
+Theoretical approach to quantum mechanics and atomic physics, with many applications in spin resonance and modern maser theory. Prerequisite: PHYS 485 recommended.
+"
+https://courses.illinois.edu/schedule/terms/ECE/573,ECE 573   Power System Control   credit: 4 Hours. ,"
+Energy control center functions, state estimation and steady state security assessment techniques, economic dispatch, optimal power flow, automatic generation control, and dynamic equivalents. Prerequisite: ECE 476; credit or concurrent registration in ECE 530.
+"
+https://courses.illinois.edu/schedule/terms/ECE/574,ECE 574   Nanophotonics   credit: 4 Hours. ,"
+Nanoscale interaction between light and semiconductors, metals, or composites; plasmonics, cavity electrodynamics, polarition cavity condensation, sub-wavelength structures, metamaterials, and applications. Prerequisite: ECE 455 or ECE 572; ECE 487 or PHYS 486.
+"
+https://courses.illinois.edu/schedule/terms/ECE/576,ECE 576   Power System Dynm & Stability   credit: 4 Hours. ,"
+Detailed modeling of the synchronous machine and its controls, such as excitation system and turbine-governor dynamics; time-scales and reduced order models; non-linear and linear multi-machine models; stability analysis using energy functions; power system stabilizers. Prerequisite: ECE 476; credit or concurrent registration in ECE 530.
+"
+https://courses.illinois.edu/schedule/terms/ECE/577,ECE 577   Advanced Antenna Theory   credit: 4 Hours. ,"
+Selected topics from recent engineering literature on antennas supplemented by advanced topics in electromagnetic theory needed for comprehension; current techniques for analysis of wire, slot, horn, frequency independent, quasi-optical, and array antennas. Prerequisite: ECE 520.
+"
+https://courses.illinois.edu/schedule/terms/ECE/579,ECE 579   Computational Complexity   credit: 4 Hours. ,"
+Same as CS 579. See CS 579.
+"
+https://courses.illinois.edu/schedule/terms/ECE/580,ECE 580   Optimiz by Vector Space Methds   credit: 4 Hours. ,"
+Normed, Banach, and Hilbert spaces; applications of the projection theorem and the Hahn-Banach Theorem to problems of minimum norm, least squares estimation, mathematical programming, and optimal control; the Kuhn-Tucker Theorem and Pontryagin's maximum principle; iterative methods. Prerequisite: MATH 415 or MATH 482; MATH 447.
+"
+https://courses.illinois.edu/schedule/terms/ECE/581,ECE 581   Advanced Analog IC Design   credit: 4 Hours. ,"
+Advanced topics in modern analog IC design. Emphasis on CMOS building blocks and circuit techniques as a result of fabrication technology advancement. Noise in linear analog circuits; linear feedback theory and stability; harmonic distortion in weakly nonlinear circuits; switched-capacitor circuit technique and realization; Nyquist-rate and oversampled data converters. Extensive computer simulations required in both homework and final project. Prerequisite: ECE 310 and ECE 483.
+"
+https://courses.illinois.edu/schedule/terms/ECE/582,ECE 582   Physical VLSI Design   credit: 4 Hours. ,"
+Basic physical design requirements for VLSI; performance-oriented formulation and optimization of chip partitioning, module placement and interconnection; optimized design and layout of on-chip modules; circuit extraction; high-speed VLSI circuits; yield and reliability analysis; advanced VLSI packaging and parametric testing. Prerequisite: ECE 425 or ECE 482.
+"
+https://courses.illinois.edu/schedule/terms/ECE/584,ECE 584   Embedded System Verification   credit: 4 Hours. ,"
+Examines formal analysis an synthesis approaches for discrete, continuous, and hybrid models of computing systems and their physical environment. Introduces timed and hybrid automata models. Analysis techniques including model checking, Hoare-style deduction, and abstractions for safety and stability, and controller synthesis strategies with applications in distributed robotics, automobile system, traffic control, and real-time systems. Same as CS 584. 4 graduate hours. No professional credit. Prerequisite: CS 476 or CS 477.
+"
+https://courses.illinois.edu/schedule/terms/ECE/585,ECE 585   MOS Device Modeling & Design   credit: 4 Hours. ,"
+Techniques for characterizing gate oxide and interface properties and reliability, I-V models for circuit simulation, design for control of short channel effects, silicon-on-insulator, and new device structures. Prerequisite: ECE 441.
+"
+https://courses.illinois.edu/schedule/terms/ECE/586,ECE 586   Topics in Decision and Control   credit: 4 Hours. ,"
+Lectures and discussions related to advanced topics and new areas of interest in decision and control theory: hybrid, sampled-data, and fault tolerant systems; control over networks; vision-based control; system estimation and identification; dynamic games. May be repeated up to 12 hours within a term, and up to 20 hours total for the course. Credit towards a degree from multiple offerings of this course is not given if those offerings have significant overlap, as determined by the ECE department. Prerequisite: As specified each term. It is expected that each offering will have a 500-level course as prerequisite or co-requisite.
+"
+https://courses.illinois.edu/schedule/terms/ECE/588,ECE 588   Electricity Resource Planning   credit: 4 Hours. ,"
+Techniques in electricity resource planning including methodologies for reliability evaluation and assessment, production costing, marginal costing, supply-side and demand-side planning, integrated planning, and planning under competition. Prerequisite: MATH 415, ECE 313, and ECE 476.
+"
+https://courses.illinois.edu/schedule/terms/ECE/590,ECE 590   Graduate Seminar in Special Topics   credit: 0 to 1 Hours. ,"
+Lectures and discussions on current research and literature on advanced topics in electrical engineering. 0 to 1 graduate hours. No professional credit. Approved for S/U grading only. May be repeated to a maximum of 1 hour in the same semester to a maximum of 4 credit hours in separate semesters, if topics vary. Prerequisite: Consent of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/594,ECE 594   Math Models of Language   credit: 3 or 4 Hours. ,"
+Mathematical models of linguistic structure and their implementation in computational algorithms used in automatic speech understanding and speech synthesis. Statistical and automata-theoretic techniques are studied allowing a quantitative description of acoustic-phonetics, phonology, phonotactics, lexicons, syntax, and semantics. The methods are used to build components of a speech understanding system. For 4 hours credit, an extended project is required. Prerequisite: ECE 537.
+"
+https://courses.illinois.edu/schedule/terms/ECE/596,ECE 596   Master's Project   credit: 1 to 8 Hours. ,"
+Individual or team projects in electrical and computer engineering emphasizing advanced engineering analysis and design. May be repeated to a maximum of 16 hours.
+"
+https://courses.illinois.edu/schedule/terms/ECE/597,ECE 597   Individual Study in ECE   credit: 1 to 8 Hours. ,"
+Individual projects. Approved written application to department as specified by department or instructor is required. May be repeated. Prerequisite: Consent of instructor.
+"
+https://courses.illinois.edu/schedule/terms/ECE/598,ECE 598   Special Topics in ECE   credit: 0 to 4 Hours. ,"
+Subject offerings of new and developing areas of knowledge in electrical and computer engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary.
+"
+https://courses.illinois.edu/schedule/terms/ECE/599,ECE 599   Thesis Research   credit: 0 to 16 Hours. ,"
+Approved for S/U grading only. May be repeated.
+"

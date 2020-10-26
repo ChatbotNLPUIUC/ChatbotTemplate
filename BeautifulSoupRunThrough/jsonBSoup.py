@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import csv
 import json
 
-URL = "http://catalog.illinois.edu/courses-of-instruction/math/"
+URL = "http://catalog.illinois.edu/courses-of-instruction/me/"
 r = requests.get(URL)
 
 soup = BeautifulSoup(r.content, 'html5lib')
@@ -17,18 +17,20 @@ table = soup.find('div', attrs = {'id':'courseinventorycontainer'})
 for row in table.findAll('div', attrs = {'class':'courseblock'}):
     course = {}
 	#quote['theme'] = row.h5.text
-    course['url'] = row.a['href']
-    course['name'] = row.a.getText().strip()
-    temp = table.find('p', attrs = {'class':'courseblockdesc'})
-    course['description'] = temp.getText().strip()
+    course['tag'] = row.a.getText().strip()
+    temp = row.find('p', attrs = {'class':'courseblockdesc'})
+    course['patterns'] = [temp.getText().strip()]
+    course['responses'] = [row.a['href']]
+    course['context'] = [""]
     courses.append(course)
     #print(row)
 
-
+intent = {}
+intent['intents'] = courses
 #'theme','url','img','lines','author'
 
-filename = 'test_math.json'
-json_obj = json.dumps(courses, indent = 4)
+filename = 'test_me.json'
+json_obj = json.dumps(intent, indent = 4)
 
 with open(filename, 'w',) as outfile:
 	outfile.write(json_obj)
