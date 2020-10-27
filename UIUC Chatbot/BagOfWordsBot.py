@@ -1,6 +1,19 @@
 import numpy as np
 import math
 from collections import OrderedDict
+import pickle
+import pandas as pd
+
+
+"""
+    How to read in a file and turn it into a 2d array:
+    https://stackoverflow.com/questions/19056125/reading-a-file-into-a-multidimensional-array-with-python
+
+    Import and Export a class using pickle:
+    
+
+"""
+
 
 class BagBot:
     #determines how important unknown words are for the bigram probabilites, higher means unknown words are more important
@@ -28,11 +41,12 @@ class BagBot:
     bigram_answer_dictionary = {}
     unigram_question_dictionary = {}
     unigram_answer_dictionary = {}
+
     
     #list of nltk stop words
     stopWords = ['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', "you're", "you've", "you'll", "you'd", 'your', 'yours', 'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', "she's", 'her', 'hers', 'herself', 'it', "it's", 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves', 'what', 'which', 'who', 'whom', 'this', 'that', "that'll", 'these', 'those', 'am', 'is', 'are', 'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'having', 'do', 'does', 'did', 'doing', 'a', 'an', 'the', 'and', 'but', 'if', 'or', 'because', 'as', 'until', 'while', 'of', 'at', 'by', 'for', 'with', 'about', 'against', 'between', 'into', 'through', 'during', 'before', 'after', 'above', 'below', 'to', 'from', 'up', 'down', 'in', 'out', 'on', 'off', 'over', 'under', 'again', 'further', 'then', 'once', 'here', 'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more', 'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so', 'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', "don't", 'should', "should've", 'now', 'd', 'll', 'm', 'o', 're', 've', 'y', 'ain', 'aren', "aren't", 'couldn', "couldn't", 'didn', "didn't", 'doesn', "doesn't", 'hadn', "hadn't", 'hasn', "hasn't", 'haven', "haven't", 'isn', "isn't", 'ma', 'mightn', "mightn't", 'mustn', "mustn't", 'needn', "needn't", 'shan', "shan't", 'shouldn', "shouldn't", 'wasn', "wasn't", 'weren', "weren't", 'won', "won't", 'wouldn', "wouldn't"]
 
-    def ___init___(self, question_prior, train_data, train_label):
+    def ___init___(self, question_prior, train_data, train_labels):
         self.questionProb = question_prior
 
     def train(self, train_set, train_labels, dev_set, unigram_smoothing_parameter=.4, bigram_smoothing_parameter=.009, bigram_lambda=.5,pos_prior=0.8):
@@ -269,3 +283,32 @@ class BagBot:
         if total_positive_probability > total_negative_probability:
             return 1
         return 0
+
+def readFile(file_name):
+    df = pd.read_csv(file_name)
+    return df
+
+
+
+
+#model1 = BagBot(.5, readFile("question_classification_dataset.csv")[0], readFile("question_classification_dataset.csv")[1])
+model1 = BagBot()
+df = readFile('question_classification_dataset.csv')
+df = df.dropna()
+# Drop rows where theres N/A
+train_set = df[df.index % 2 == 0]
+train_sentence = list(train_set['sentence'])
+
+train_labels = list(train_set['labels'])
+
+dev_set = df[df.index % 2 == 1]
+dev_sentence = list(dev_set['sentence'])
+
+dev_labels = list(dev_set['labels'])
+
+
+model1.train(train_sentence, train_labels, dev_sentence)
+print(model1.findAccuracy(dev_sentence, dev_labels))
+pickleFile = open('model1', 'wb')
+pickle.dump('model1', pickleFile)
+pickleFile.close()
