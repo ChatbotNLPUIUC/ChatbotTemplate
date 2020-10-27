@@ -1,0 +1,940 @@
+{
+    "intents": [
+        {
+            "tag": "ME\u00a0170 \u2002 Computer-Aided Design \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Geometry and topology of engineered components: creation of engineering models and their presentation in standard 2D blueprint form and as 3D wire-frame and shaded solids; meshed topologies for engineering analysis and tool-path generation for component manufacture; ISO and ANSI standards for coordinate dimensioning and tolerancing; geometric dimensioning and tolerancing. Use of solid-modeling software for creating associative models at the component and assembly levels with automatic blueprint creation, interference checking, and linked bill of materials. Credit is not given for both ME\u00a0170 and GE 101 or SE\u00a0101."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/170"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0199 \u2002 Undergraduate Open Seminar \u2002 credit: 1 to 5 Hours.",
+            "patterns": [
+                "May be repeated."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/199"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0200 \u2002 Thermodynamics \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Classical thermodynamics through the second law; system and control-volume analyses of thermodynamic processes; irreversibility and availability; relations for ideal gas mixtures. Prerequisite: MATH\u00a0241."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/200"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0270 \u2002 Design for Manufacturability \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Introduction to DFM methodologies and tools; material selection (new and traditional materials); designing for primary manufacturing processes (cutting fundamentals, casting, forming, and shaping); designing with plastics (snap-fits, integral hinges, etc.); design for assembly (DFA); geometric dimensioning and tolerancing (GD&T). Same as TAM\u00a0270. Prerequisite: ME\u00a0170. ME and EM majors only."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/270"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0290 \u2002 Seminar \u2002 credit: 0 Hours.",
+            "patterns": [
+                "Lectures by faculty and invited authorities, concerning the ethics and practices of mechanical engineering/engineering mechanics, as well as its relationship to other fields of engineering, to economics, and to society. Offered fall term only. Approved for S/U grading only."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/290"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0297 \u2002 Introductory Independent Study \u2002 credit: 1 to 3 Hours.",
+            "patterns": [
+                "Independent study and/or individual projects related to mechanical engineering. Approved for Letter and S/U grading. May be repeated to a maximum of 6 credit hours for letter grade; no limit for S/U grade mode. Prerequisite: Consent of Instructor."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/297"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0310 \u2002 Fundamentals of Fluid Dynamics \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of fluid mechanics with coverage of theory and applications of incompressible viscous and inviscid flows, and compressible high speed flows. Credit is not given for both ME\u00a0310 and TAM\u00a0335. Prerequisite: MATH\u00a0285 OR MATH\u00a0286 OR MATH\u00a0441; credit or concurrent registration in ME\u00a0200."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/310"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0320 \u2002 Heat Transfer \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of fluid mechanics with coverage of theory and applications of incompressible viscous and inviscid flows, and compressible high speed flows. Prerequisite: MATH\u00a0285 or MATH\u00a0286 or MATH\u00a0441; ME\u00a0310 or TAM\u00a0335; credit or concurrent registration in ME\u00a0200."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/320"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0330 \u2002 Engineering Materials \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Structures of polymers, metals, and ceramics as the basis for their mechanical behavior. Manipulation of structure through such processes as heat treatment and solidification. Mechanisms of material failure in service (yielding, fracture, fatigue, creep, corrosion, and wear) and simple design techniques to avoid these failures. Strategies for materials selection in design. Credit is not given for both ME\u00a0330 and either CEE\u00a0300 or MSE\u00a0280. Prerequisite: CHEM\u00a0102 and TAM\u00a0251."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/330"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0340 \u2002 Dynamics of Mechanical Systems \u2002 credit: 3.5 Hours.",
+            "patterns": [
+                "Dynamic modeling of mechanical components and systems; time-domain and frequency-domain analyses of linear time-invariant systems; multi-degree-of-freedom systems; linearization of nonlinear systems. Credit is not given for both ME\u00a0340 and either SE\u00a0320 or AE\u00a0353. Prerequisite: MATH\u00a0285 OR MATH\u00a0286 OR MATH\u00a0441; TAM\u00a0212; credit or concurrent registration in ECE\u00a0205 and MATH\u00a0415."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/340"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0351 \u2002 Analysis of Mfg Processes \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Mechanistic and empirical modeling of manufacturing processes including metal cutting theory, casting analysis, forging analysis, sheet metal forming, plastics molding, welding and mechanical joining assembly analysis. Also, hands-on exposure to manufacturing processes, CAD/CAM software (MasterCam), 5 axis machining (ShopBot), Wire EDM machining, statistical process control (SPC), and geometric dimensioning and tolerancing (GD&T) metrology principles using CMM. Prerequisite: ME\u00a0270."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/351"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0360 \u2002 Signal Processing \u2002 credit: 3.5 Hours.",
+            "patterns": [
+                "Basic electromechanical techniques used in modern instrumentation and control systems. Use of transducers and actuators. Signal conditioning, grounding, and shielding. Analog and digital signal processing and feedback control methods with emphasis on frequency domain techniques. Frequency response of continuous and discrete systems. Credit is not given for both ME\u00a0360 and ABE\u00a0425. Prerequisite: ME\u00a0340."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/360"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0370 \u2002 Mechanical Design I \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Kinematics and dynamics of machinery, including introduction to user-centered design and design thinking, analytical and computer-aided design of kinematics, dynamic force analysis, principle of virtual work, cam and gear design, and balancing. Project-based learning of multi-mechanism system design, analysis, fabrication, and evaluation. Prerequisite: ME\u00a0270, TAM\u00a0212, and TAM\u00a0251."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/370"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0371 \u2002 Mechanical Design II \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Design and analysis of machinery for load-bearing and power transmission. Consideration of material failure modes, including yielding, fracture, and fatigue. Design and selection of machine elements: threaded fasteners, springs, rolling-element bearings, fluid film lubrication, gears and friction drives. Prerequisite: ME\u00a0330 OR CEE\u00a0300; ME\u00a0370."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/371"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0400 \u2002 Energy Conversion Systems \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Processes and systems for energy conversion, including power and refrigeration cycles, air conditioning, thermoelectrics and fuel cells; ideal-gas mixtures and psychrometrics. 3 undergraduate hours. 4 graduate hours. Prerequisite: ME\u00a0200."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/400"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0401 \u2002 Refrigeration and Cryogenics \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Theory of operation and design of equipment for production of low temperatures, from below ambient to near absolute zero; industrial, consumer, aerospace, medical, and research applications. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Credit or concurrent registration in ME\u00a0320."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/401"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0402 \u2002 Design of Thermal Systems \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Selection of components in fluid- and energy-processing systems to meet system-performance requirements; computer-aided design; system simulation; optimization techniques; investment economics and statistical combinations of operating conditions. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Credit or concurrent registration in ME\u00a0320."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/402"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0403 \u2002 Internal Combustion Engines \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Theory and analysis of reciprocating internal-combustion engines; fuels, carburetion, combustion, exhaust emissions, detonation, fuel injection, and factors affecting performance; laboratory work on variables that affect performance. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: Credit or concurrent registration in ME\u00a0400 or ABE\u00a0466."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/403"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0404 \u2002 Intermediate Thermodynamics \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Classical thermodynamics, including the TdS equations and the Maxwell relations; development of thermodynamic property relations, behavior of real gases, thermodynamics of mixtures, phase equilibrium and chemical reactions and equilibrium with an emphasis on combustion reactions; statistical thermodynamics including the effect of molecular and atomic structure, statistical concepts and distributions, calculation of thermodynamic properties of gas-phase atoms and molecules, kinetic theory of gases, and vibrations in crystals and the electron gas in metals; selected applications. 4 undergraduate hours. 4 graduate hours. Credit is not given for both ME\u00a0404 and any of PHYS\u00a0427, CHEM\u00a0442, or CHEM\u00a0444. Prerequisite: ME\u00a0200."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/404"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0410 \u2002 Intermediate Gas Dynamics \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Solution of internal compressible-flow problems by one-dimensional techniques, both steady and unsteady; flows with smooth and abrupt area change, with friction, with heat addition, and with mass addition; flows with weak and strong waves, multiple confined streams, and shock waves. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0200; ME\u00a0310, TAM\u00a0335 or AE\u00a0311."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/410"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0411 \u2002 Viscous Flow & Heat Transfer \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as AE\u00a0412. See AE\u00a0412."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/411"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0412 \u2002 Numerical Thermo-Fluid Mechs \u2002 credit: 2 to 4 Hours.",
+            "patterns": [
+                "Numerical techniques for solving the equations governing conduction and convective heat transfer in steady and unsteady fluid flows: finite-difference and finite-volume techniques, basic algorithms, and applications to real-world fluid-flow and heat-transfer problems. Same as CSE\u00a0412. 2 or 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0310 OR TAM\u00a0335; ME\u00a0320."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/412"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0420 \u2002 Intermediate Heat Transfer \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Conduction heat transfer, radiation heat transfer, mass transfer, phase change, heat exchangers; numerical methods. 4 undergraduate hours. 4 graduate hours. Prerequisite: ME\u00a0310 OR TAM\u00a0335; ME\u00a0320."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/420"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0430 \u2002 Failure of Engrg Materials \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Material anisotropy and elasto-plastic properties at the crystal level; microstructural basis for fatigue, fracture, and creep in metals, polymers, and ceramics; failure mechanisms and toughening in composites; structure and behavior of metal-matrix composites, ceramic-matrix composites, and polymer composites. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0330 OR TAM\u00a0324."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/430"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0431 \u2002 Mechanical Component Failure \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Relationship of materials and mechanics concepts to the design of structures and components: elasticity, plasticity, thermal loading, creep, fatigue, fracture, and residual-life assessments as they relate to materials selection and design. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0330 and ME\u00a0371; Recommended: ME\u00a0430."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/431"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0432 \u2002 Fundamentals of Photovoltaics \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "In this course, we will develop a fundamental understanding of how solar cells convert light to electricity, how solar cells are made, how solar cell performance is evaluated, and the photovoltaic technologies that are currently on the market and/or under development. Using thermodynamics, materials physics, and engineering analysis we will assess and critique the potential and drawbacks of modern photovoltaic technologies, including single- and multi- crystalline silicon, tandem cells, CdTe, CIGS, PVT, bulk heterojunctions (organic), Graetzel cells, nanostructure-based, and third generation PV. 3 undergraduate hours. 4 graduate hours. Approved for Letter and S/U grading. Prerequisite: PHYS\u00a0212 and ME\u00a0330 or equivalent."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/432"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0440 \u2002 Kinem & Dynamics of Mech Syst \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Kinematics and dynamics of constrained rigid-body mechanical systems; use of modern computer-based analysis software packages. 3 undergraduate hours. 4 graduate hours. Prerequisite: ME\u00a0370."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/440"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0445 \u2002 Introduction to Robotics \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as AE\u00a0482 and ECE\u00a0470. See ECE\u00a0470."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/445"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0446 \u2002 Robot Dynamics and Control \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as ECE\u00a0489 and SE\u00a0422. See SE\u00a0422."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/446"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0450 \u2002 Modeling Materials Processing \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Manufacturing processes for metals and polymers; creation of process models based on momentum, heat, and mass transfer; model simplification by estimation and scaling; applications to casting, microstructure evolution, polymer molding and extrusion, and welding. 3 undergraduate hours. 3 graduate hours. Prerequisite: ME\u00a0320 and ME\u00a0330."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/450"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0451 \u2002 Computer-Aided Mfg Systems \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "The application of computer technology and operations research to manufacturing systems. Use of microprocessors for direct numeric control of machine tools, adaptive control and optimization, and integrated manufacturing systems. Applications of industrial robots. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0270."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/451"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0452 \u2002 Num Control of Mfg Processes \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Numerical control systems, manufacturing processes, principles and practices basic to numerical control, and programming methodology for numerical control. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: CS\u00a0101 and ME\u00a0270."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/452"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0453 \u2002 Data Science in Manufacturing Quality Control \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Manufacturing quality management in the big data era; quality improvement philosophies; statistical modeling of process quality; inferences about quality; statistical process control; control charts; machine learning and applications in quality engineering; quality classification/prediction with machine learning; design and implementation of quality monitoring systems based on supervised learning; measurement system analysis (gage R&R study); design of experiments. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0270; IE\u00a0300 OR STAT\u00a0400; MATH\u00a0415."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/453"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0455 \u2002 Micromanufacturing Process & Automation \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Scaling laws in miniaturization, Micro-machine tools design and characterization, Micromanufacturing process modeling, simulation and automation, Micro-metrology and Micro-assembly systems. 3 undergraduate hours. 4 graduate hours. Prerequisite: ME\u00a0270 or equivalent or consent of instructor."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/455"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0458 \u2002 Additive Manufacturing and Product Design \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Additive manufacturing fundamentals, how and why to design products using additive manufacturing, theory, and practice of product innovation, modern product design. 3 undergraduate hours. 4 graduate hours. Prerequisite: ME\u00a0371 or consent of instructor. Senior or graduate standing, or instructor permission."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/458"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0460 \u2002 Industrial Control Systems \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Industrial control techniques; case studies of industrial systems; design, selection, and maintenance of industrial control systems, including electromechanical, pneumatic, thermal, and hydraulic systems. 4 undergraduate hours. 4 graduate hours. Credit is not given for both ME\u00a0460 and ECE\u00a0486. Prerequisite: ME\u00a0340 and ME\u00a0360."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/460"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0461 \u2002 Computer Cntrl of Mech Systems \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Microcomputer control of thermal and mechanical systems: sensors and transducers, signal transmission and conversion, and regulator actuation. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: ME\u00a0360 or ABE\u00a0425."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/461"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0465 \u2002 Optics: Theory & Applications \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Introduction to basic concepts in electromagnetic fields and waves as they pertain to measurement science and subsurface imaging. Related applications using wave-based probes, such as acoustic fields and waves with an emphasis on current phenomena and technologies. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS\u00a0212, MATH\u00a0285 OR MATH\u00a0286 OR MATH\u00a0441. Restricted to students with Senior or Graduate standing, or instructor permission."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/465"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0470 \u2002 Senior Design Project \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Solution of a real-world design problem: development, evaluation, and recommendation of alternative solutions subject to realistic constraints that include most of the following considerations: economics, environment, sustainability, manufacturability, ethics, health and safety, society, and politics. 3 undergraduate hours. No graduate credit. Departmental approval required. Prerequisite: Concurrent enrollment in no more than two required ME courses; completion of all required courses.This course satisfies the General Education Criteria for:Advanced Composition"
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/470"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0471 \u2002 Finite Element Analysis \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "The finite element method and its application to engineering problems: truss and frame structures, heat conduction, and linear elasticity; use of application software; overview of advanced topics such as structural dynamics, fluid flow, and nonlinear structural analysis. Same as AE\u00a0420 and CSE\u00a0451. 3 or 4 undergraduate hours. 3 or 4 graduate hours. Credit is not given for both ME\u00a0471 and CEE\u00a0470. Prerequisite: CS\u00a0101 and ME\u00a0371 or TAM\u00a0470. Alternatively, AE\u00a0370 for AE students."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/471"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0472 \u2002 Introduction to Tribology \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Friction, wear, and lubrication; engineering surfaces; surface properties and surface topography; Hertzian contacts and contact of rough surfaces; friction of surfaces in contact; wear and surface failures; boundary lubrication; fluid properties; hydrodynamic lubrication; elastohydrodynamic lubrication; bearing selection; introductory micro- and nanotribology. 3 undergraduate hours. 3 or 4 graduate hours."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/472"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0481 \u2002 Whole-Body Musculoskel Biomech \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Exploration of the human musculoskeletal system with an emphasis on the whole-body or organism level; modeling and analysis techniques for examining human movement, such as rigid-body modeling techniques, forward and inverse dynamics, and Lagrangian mechanics; examination of current topics, such as orthopedic biomechanics, prosthetics and orthotics, postural control, and locomotion; use of computerized motion-capture equipment and software to examine, simulate, and analyze human movement. Same as BIOE\u00a0481. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: TAM\u00a0212 and TAM\u00a0251."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/481"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0482 \u2002 Musculoskel Tissue Mechanics \u2002 credit: 3 or 4 Hours.",
+            "patterns": [
+                "Composition-structure-function relationships for musculoskeletal tissues, including bone, tendon, ligament, cartilage, and muscle; hierarchical structure of tissues from the macro- to nano-scales; relation of composition to mechanical properties of health and diseased tissue; experimental methods used to obtain mechanical properties. Same as BIOE\u00a0482. 3 undergraduate hours. 3 or 4 graduate hours. Prerequisite: TAM\u00a0251."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/482"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0483 \u2002 Mechanobiology \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Integrative approach to mechanobiology; mechanics of cell adhesion; cytoskeletal structure and mechanics; mechanotransduction; mechanics of cell proliferation, apoptosis, cancer cells, and stem cells; aging; critical issues facing the mechanobiological sciences. 4 undergraduate hours. 4 graduate hours. Prerequisite: CHEM\u00a0102 and TAM\u00a0251."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/483"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0485 \u2002 MEMS Devices & Systems \u2002 credit: 3 Hours.",
+            "patterns": [
+                "Same as ECE\u00a0485. See ECE\u00a0485."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/485"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0487 \u2002 MEMS-NEMS Theory & Fabrication \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Physical and chemical theory, design, and hands-on fabrication of micro- and nano-electromechanical systems (MEMS and NEMS); cleanroom fabrication theory, including general cleanroom safety, lithography, additive and subtractive processes, bulk and surface micromachining, deep reactive ion etching (DRIE), lithographic Galvanoformung Abformung (LIGA), packaging, scaling, actuators, and micro-nanofluids; fabrication of two take-home devices, such as piezoresistive sensors and microfluidic logic chips, that demonstrate advanced fabrication processing. 4 undergraduate hours. 4 graduate hours. Prerequisite: PHYS\u00a0212."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/487"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0496 \u2002 Honors Project \u2002 credit: 1 to 4 Hours.",
+            "patterns": [
+                "Special project or reading course for James Scholars in engineering. 1 to 4 undergraduate hours. No graduate credit. May be repeated. Prerequisite: Consent of instructor."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/496"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0497 \u2002 Independent Study \u2002 credit: 1 to 3 Hours.",
+            "patterns": [
+                "Independent study of advanced problems related to mechanical engineering. 1 to 3 undergraduate hours. No graduate credit. May be repeated in separate terms to a maximum of 6 hours, as topics vary. Prerequisite: Consent of Instructor. Students with Junior or Senior standing."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/497"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0498 \u2002 Special Topics \u2002 credit: 0 to 4 Hours.",
+            "patterns": [
+                "Subject offerings of new and developing areas of knowledge in mechanical engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. 0 to 4 undergraduate hours. 0 to 4 graduate hours. May be repeated in the same or separate terms if topics vary to a maximum of 9 hours."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/498"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0501 \u2002 Combustion Fundamentals \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of kinetic theory, transport phenomena, chemical equilibria, and reaction kinetics; flames, their gross properties, structure, and gas dynamics including oscillatory and turbulent burning; solid and liquid propellant combustion; one-dimensional detonation theory including structure and initiation; three-dimensional and other complex detonation waves; supersonic burning. Same as AE\u00a0538. Prerequisite: AE\u00a0311 or ME\u00a0410."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/501"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0502 \u2002 Thermal Systems \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Steady-state simulation and optimization of thermal systems, dynamic performance, and probabilities in system design. Prerequisite: ME\u00a0402."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/502"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0503 \u2002 Design of IC Engines \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Design of internal combustion engines, including gas forces, inertia loads, bearing analysis, torsional vibration, balance, lubrication, valve and cam design, and stress analysis of major engine components. Prerequisite: ME\u00a0403."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/503"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0504 \u2002 Multiphase Systems & Processes \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Dynamics and thermodynamics of multiphase and multicomponent systems with special relevance to air-pollution control and energy conversion; relaxation phenomena; general motion of systems of disparate elemental masses; diffusion in gravitational and electric fields, and boundary-layer motion with mass transport; dispersion and collection of particulate matter; transport with surface reactions. Prerequisite: ME\u00a0404."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/504"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0510 \u2002 Advanced Gas Dynamics \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Theoretical gas dynamics; fundamental laws and basic equations for subsonic, transonic, and supersonic steady and unsteady flow processes. Same as AE\u00a0510. Prerequisite: ME\u00a0410."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/510"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0512 \u2002 Physicochemical Hydrodynamics \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Introduces basic concepts of molecular diffusion in liquids with interactions due to stationary or flowing fluid. Uncharged and charged solutions/dispersions/suspensions of molecules, macromolecules, and particles are considered in enclosed and porous media flows. Particular emphasis is placed on analysis using the equations that govern concentration and velocity fields, flux and flow constitutive relations, driving forces, and transport properties and parameters. Applications are presented in energy, environmental, chemical, and biological systems. 4 graduate hours. No professional credit. Prerequisite: ME\u00a0420, ME\u00a0411, CEE\u00a0442, CEE\u00a0451, CHBE\u00a0421, or consent of instructor."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/512"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0520 \u2002 Heat Conduction \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of heat conduction in isotropic and anisotropic materials; methods of solution to steady and transient heat conduction problems in one, two, and three dimensions; internal heat sources; periodic flow of heat; problems involving phase change; approximate analytical techniques; numerical methods; study of current articles on the subject. Prerequisite: ME\u00a0420."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/520"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0521 \u2002 Convective Heat Transfer \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of convective heat transfer; calculation of heat transfer within ducts and over submerged objects for laminar and turbulent flow; natural convection; film condensation and boiling; liquid metals. Prerequisite: ME\u00a0411."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/521"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0522 \u2002 Thermal Radiation \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fundamentals of radiant-energy transport in absorbing and nonabsorbing media; pyrometry; applications to selected problems involving combined energy-transport mechanisms. Prerequisite: ME\u00a0420."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/522"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0523 \u2002 Nanoscale Energy Transport \u2002 credit: 4 Hours.",
+            "patterns": [
+                "An advanced treatment of diverse transport phenomena at the nanometer scale involving solids, liquids and gases emphasizing common features in transport by molecules, electrons, phonons, photons, and other quasi-particles of interest, oriented toward applied research in the areas of nanoscale heat transfer and nanoscale energy conversion. Topics include intermolecular forces at surfaces and in the bulk, momentum and species transport in microfluidics, linear response theory, free molecular flow in gases, electron and phonon transport in crystals, Boltzmann equation and its moments, ballistic and diffusive transport, thermoelectric energy conversion, interfacial transport, energy transport in nanostructures and radiative transport in the near-field. Approved for letter and S/U grading."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/523"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0530 \u2002 Fatigue Analysis \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Fatigue analysis methods for the design of structures and components: stress-life, strain-life, and crack-propagation approaches; multiaxial and high-temperature fatigue; interrelationship among material properties, geometry, and design methodology appropriate for a wide range of mechanical engineering components. Prerequisite: ME\u00a0430."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/530"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0531 \u2002 Inelastic Design Methods \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Material deformation under combined mechanical and thermal loading; constitutive equations and their application in engineering design and in inelastic finite element methods; material and structural degradation under fatigue and creep conditions. Prerequisite: ME\u00a0471 and ME\u00a0430."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/531"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0532 \u2002 Fracture Resistant Design \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Application of fracture mechanics and microstructural behavior to materials selection for design; practical approximation of linear and inelastic fracture parameters for evaluation of complex components; destructive and nondestructive tests for control of toughness in manufacture; residual life assessment involving time-dependent fracture (creep, fatigue, stress, corrosion); case studies; design project. Prerequisite: ME\u00a0430."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/532"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0533 \u2002 Physical Basis for Plasticity \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Physical and mathematical foundation for plasticity in crystalline materials, with application to deformation processes. Metal forming; deformation processes in other materials, such as slip in geological materials and polymers; rate dependence of plastic flow, with underlying physical mechanisms; kinetics of dislocation motion, mechanisms of work hardening, and crystallographic texture; theoretical framework for modeling the constitutive response of rate-dependent materials undergoing crystallographic slip, and allied computational procedures. Prerequisite: TAM\u00a0445."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/533"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0540 \u2002 Control System Theory & Design \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as ECE\u00a0515. See ECE\u00a0515."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/540"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0541 \u2002 Control of Machine Systems \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Modeling machining processes and machine tools. Mechanistic modeling of machining processes, machine-tool errors, characterization of machined surfaces, machine-tool system dynamics and stability, and topics in motion control. 4 graduate hours. No professional credit. Prerequisite: ME\u00a0340 and ME\u00a0270."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/541"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0544 \u2002 Dynamic System Reliability \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as ECE\u00a0554. See ECE\u00a0554."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/544"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0546 \u2002 Analysis of Nonlinear Systems \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Same as ECE\u00a0528 and SE\u00a0520. See ECE\u00a0528."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/546"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0550 \u2002 Solidification Processing \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Principles of control of structure, properties, and shape in processes involving liquid-solid transformations; stresses, heat flow, mass transport, solute redistribution, and nucleation and growth kinetics; relationship between process variables and structures and properties in the resultant material; examples are drawn from existing commercial and new developing processes. Prerequisite: ME\u00a0450."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/550"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0554 \u2002 Computational Process Modeling \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Development and application of computer models to solve practical problems involving fluid flow, heat transfer, and deformation phenomena. Advanced topics in computational methods for materials process modeling; case studies. Same as CSE\u00a0561. Prerequisite: ME\u00a0412 or ME\u00a0471; ME\u00a0450."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/554"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0561 \u2002 Convex Methods in Control \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Use of convex optimization in analysis and control of dynamical systems; robust control methods and the use of semidefinite programming; linear matrix inequalities, operator theory, model reduction, H-2 and H-infinity optimal control, S-procedure and integral quadratic constraints, structured singular value and mu-synthesis, and Markovian jump systems; applications in control design. Prerequisite: ECE\u00a0515."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/561"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0562 \u2002 Robust Adaptive Control \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Mathematical foundation for synthesis and analysis of adaptive control systems: Lyapunov stability theory; methods of direct and indirect model reference adaptive control; recent methods, such as L1 adaptive control, that enable adaptive control with desired transient and steady-stage performance specifications. Prerequisite: Any of ECE\u00a0486, ECE\u00a0515, ECE\u00a0528, GE 424, ME\u00a0460."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/562"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0570 \u2002 Nonlinear Solid Mech Design \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Optimality conditions; finite element methods; design sensitivity analysis; nonlinear analysis; transient analysis; thermo-mechanical solid mechanics. Same as AE\u00a0524. 4 graduate hours. No professional credit. Prerequisite: One of AE\u00a0420, CEE\u00a0470, ME\u00a0471, TAM\u00a0470; TAM\u00a0445, TAM\u00a0551."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/570"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0586 \u2002 Mechanics of MEMS \u2002 credit: 4 Hours.",
+            "patterns": [
+                "Mechanics and dynamics of microelectromechanical systems (MEMS); scaling laws in electrostatics, magnetics, and fluidics; analytical models for thin-film growth and etching; effect of surface tension in small dimensions in relations to stability of MEMS during web fabrication; size effects on mechanical properties of MEMS materials; equations of motion for MEMS, involving coupled elastic and electric fields that give rise to nonlinear dynamical behavior; Mathieu behavior and chaotic systems. Prerequisite: ME\u00a0485."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/586"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0590 \u2002 Seminar \u2002 credit: 1 Hour.",
+            "patterns": [
+                "Presentation and discussion of significant developments in mechanical engineering. Approved for S/U grading only. May be repeated."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/590"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0591 \u2002 Interest Group Seminar \u2002 credit: 1 Hour.",
+            "patterns": [
+                "Seminars on current topics in mechanical science and engineering. May be repeated in the same term if topics vary. May be repeated in separate terms."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/591"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0597 \u2002 Independent Study \u2002 credit: 1 to 4 Hours.",
+            "patterns": [
+                "Independent study of advanced problems related to mechanical engineering. May be repeated in the same term or in separate terms if topics vary to a maximum of 12 hours. Prerequisite: Consent of instructor."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/597"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0598 \u2002 Special Topics \u2002 credit: 1 to 4 Hours.",
+            "patterns": [
+                "Subject offerings of new and developing areas of knowledge in mechanical engineering intended to augment the existing curriculum. See Class Schedule or departmental course information for topics and prerequisites. May be repeated in the same or separate terms if topics vary."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/598"
+            ],
+            "context": [
+                ""
+            ]
+        },
+        {
+            "tag": "ME\u00a0599 \u2002 Thesis Research \u2002 credit: 0 to 16 Hours.",
+            "patterns": [
+                "Approved for S/U grading only. May be repeated."
+            ],
+            "responses": [
+                "https://courses.illinois.edu/schedule/terms/ME/599"
+            ],
+            "context": [
+                ""
+            ]
+        }
+    ]
+}
