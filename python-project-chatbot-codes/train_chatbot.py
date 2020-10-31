@@ -99,6 +99,9 @@ def create_model(json_name, h5_name):
     print("model created")
 
 def main():
-    create_model('/Users/daqian/Documents/ChatbotTrial/BeautifulSoupRunThrough/test_math.json', 'chatbot_model.h5')
+    #model_base = '/Users/daqian/Documents/ChatbotTrial/BeautifulSoupRunThrough/test_math.json'
+    #model_base = 'newintents.json'
+    model_base = 'test_conversation.json'
+    create_model(model_base, 'chatbot_model.h5')
 if __name__ == "__main__":
     main()
