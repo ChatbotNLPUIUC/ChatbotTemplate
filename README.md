@@ -1,3 +1,4 @@
-*Editing the Chatbot from: https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44
+**Editing the Chatbot from: https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44
 
-*GOAL: Creating a UIUC focused chatbot
+**GOAL:
+*Creating a UIUC focused chatbot
