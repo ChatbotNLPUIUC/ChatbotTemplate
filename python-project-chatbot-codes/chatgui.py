@@ -3,12 +3,15 @@ from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
 import pickle
 import numpy as np
+from model2_train import CleanText
+import joblib
 
 #model_base = '/Users/daqian/Documents/ChatbotTrial/BeautifulSoupRunThrough/test_math.json'
 #model_base = 'newintents.json'
 model_base = 'test_conversation.json'
 from keras.models import load_model
-model = load_model('chatbot_model.h5')
+model3 = load_model('chatbot_model.h5')
+model2 = joblib.load(open('model2.pkl', 'rb'))
 import json
 import random
 intents = json.loads(open(model_base).read())
@@ -42,7 +45,7 @@ def bow(sentence, words, show_details=True):
 def predict_class(sentence, model):
     # filter out predictions below a threshold
     p = bow(sentence, words,show_details=False)
-    res = model.predict(np.array([p]))[0]
+    res = model3.predict(np.array([p]))[0]
     ERROR_THRESHOLD = 0.25
     results = [[i,r] for i,r in enumerate(res) if r>ERROR_THRESHOLD]
     # sort by strength of probability
@@ -66,8 +69,13 @@ def getResponse(ints, intents_json):
     return result
 
 def chatbot_response(msg):
-    ints = predict_class(msg, model)
-    res = getResponse(ints, intents)
+    is_UIUC_related = model2.predict(["".join(msg)])
+    res = ""
+    if is_UIUC_related:
+        res = "I see that you asked a question about UIUC"
+    else:
+        ints = predict_class(msg, model3)
+        res = getResponse(ints, intents)
     return res
 
 
