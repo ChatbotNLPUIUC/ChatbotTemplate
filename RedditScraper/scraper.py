@@ -19,13 +19,13 @@ data = []
 
 for flair in flairs:
     if flair[0] in flairs_of_interest:
-        for submission in subreddit.search('flair:"' + flair[0] + '" self=1', sort='top', syntax='lucene', limit=None):
+        for submission in subreddit.search('flair:"' + flair[0] + '" self:yes', sort='top', syntax='lucene', limit=None):
             if submission.num_comments > 0:
                 submission.comment_sort = 'top'
                 comments = submission.comments.list()
                 # just top comment for now
-                data.append([submission.title, comments[0].body])
+                data.append([submission.title + ' ' + submission.selftext, comments[0].body])
 
 print("Saved data")
-df = pd.DataFrame(data, columns =['Question', 'Answer'])
+df = pd.DataFrame(data, columns=['Question', 'Answer'])
 df.to_csv('reddit_posts.csv', index=False, encoding='utf-8')
