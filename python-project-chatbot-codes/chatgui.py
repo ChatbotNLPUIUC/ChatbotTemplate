@@ -5,6 +5,7 @@ import pickle
 import numpy as np
 from model2_train import CleanText
 import joblib
+from whooshtrial import whooshFinder
 
 #model_base = '/Users/daqian/Documents/ChatbotTrial/BeautifulSoupRunThrough/test_math.json'
 #model_base = 'newintents.json'
