@@ -5,22 +5,23 @@ import os.path
 from whoosh.qparser import QueryParser
 import sys
 import os
-from parseJSON import doingJSON, listJson
+from parseJSON import doingJSON, listJson, doingTxt
     
 class whooshFinder:
-    def __init__(self):
+    def __init__(self, filename):
         if not os.path.exists("indexdir"):
             os.mkdir("indexdir")
         global schema
         global ix
-        schema = Schema(title=TEXT(stored=True), path=ID(stored=True), content=TEXT(stored = True))
+        schema = Schema(title=TEXT(stored=True), content=TEXT(stored = True))
         ix = index.create_in("indexdir", schema)
 
         writer = ix.writer()
-        temp = ""
-        doingsplit = listJson("test_math.json")
+        #doingsplit = listJson(filename)
+        doingsplit = doingTxt(filename)
         for i in doingsplit:
-            writer.add_document(content=i["patterns"])
+            #writer.add
+            writer.add_document(title=i["tag"], content=i["patterns"])
         writer.commit()
         
 
@@ -54,7 +55,7 @@ class whooshFinder:
         return endpoint[0]
 
 if __name__ == "__main__":
-    find = whooshFinder()
+    find = whooshFinder("woosh_data.txt")
     while True:
         check = input ("Enter keywords: ")
         if check == 'stop':

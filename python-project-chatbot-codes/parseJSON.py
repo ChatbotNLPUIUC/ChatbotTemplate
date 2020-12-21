@@ -1,6 +1,19 @@
 import json
 import numpy as np
 
+def doingTxt(filename):
+    data = []
+    with open(filename) as f:
+        line = f.readline()
+        while line:
+            datum = {}
+            temp = line.split(';')
+            datum["tag"] = temp[0]
+            datum["patterns"] = temp[1]
+            data.append(datum)
+            line = f.readline()
+    return data
+
 def doingJSON(filename):
     with open(filename) as f:
         data = json.load(f)
