@@ -15,7 +15,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Model Image][model-image]](model_img.png)
+![model-image](./model_img.png)
 
 A beginner project to build a Q&A chatbot that is able to answer questions about UIUC. A chat interface allows users to ask questions or just chat with the bot.
 
