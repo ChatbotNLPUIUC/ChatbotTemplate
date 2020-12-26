@@ -19,40 +19,49 @@ class whooshFinder:
         writer = ix.writer()
         #doingsplit = listJson(filename)
         doingsplit = doingTxt(filename)
+        global lines
+        lines = {}
         for i in doingsplit:
             #writer.add
-            writer.add_document(title=i["tag"], content=i["patterns"])
+            temp = ""
+            words = i["patterns"].split()
+            tag = ""
+            inside = ""
+            for j in words:
+                temp += j
+                if temp[-1] == '.':
+                    inside += temp
+                    temp = ""
+                    if tag != "":
+                        writer.add_document(title=tag, content=inside)
+                        lines[tag] = inside
+                        inside = ""
+                        tag = ""
+                    continue
+                if temp[-1] == '?':
+                    tag = temp
+                    temp = ""
+                temp += " "
+                
         writer.commit()
         
 
     def whooshFind(self, check):
-        endpoint = []
+        endpoint = ""
         scores = []
         total = 0.0
         if check != "":
             with ix.searcher() as searcher:
-                query = QueryParser("content", ix.schema).parse(check)
+                query = QueryParser("title", ix.schema).parse(check)
                 results = searcher.search(query)
         
                 for r in results:
-                    endpoint.append(r['content'].replace('\n', ''))
-                    #print (r, r.score)
-                    scores.append(r.score)
-                    total += r.score
-                    # Was this results object created with terms=True?
-                    #if results.has_matched_terms():
-                        # What terms matched in the results?
-                        #print(results.matched_terms())
+                    endpoint += lines[r["title"]].replace('\n', '')
+                    #print (r, r.score
                 if len(endpoint) == 0:
                     return ["No Sentences Found."]
-                average = (float)(total/len(endpoint))
                 # What terms matched in each hit?
-        together = []
-        for i in range(len(endpoint)):
-            if scores[i] > average:
-                together = together + endpoint[i].split(".")
-                together.remove('')
-        return endpoint[0]
+        return endpoint
 
 if __name__ == "__main__":
     find = whooshFinder("woosh_data.txt")

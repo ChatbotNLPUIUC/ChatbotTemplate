@@ -18,6 +18,7 @@ import random
 intents = json.loads(open(model_base).read())
 words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
+find = whooshFinder("woosh_data.txt")
 
 
 def clean_up_sentence(sentence):
@@ -73,7 +74,8 @@ def chatbot_response(msg):
     is_UIUC_related = model2.predict(["".join(msg)])
     res = ""
     if is_UIUC_related:
-        res = "I see that you asked a question about UIUC"
+        #res = "I see that you asked a question about UIUC"
+        res = find.whooshFind(msg)
     else:
         ints = predict_class(msg, model3)
         res = getResponse(ints, intents)
