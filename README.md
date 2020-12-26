@@ -50,7 +50,7 @@ python3 chatgui.py
 
 ### Built With
 
-Python using Tensorflow, sci-kit learn, Whoosh, tkinter
+Python using Tensorflow, sci-kit learn, Whoosh, tkinter, NLTK, praw, BeautifulSoup
 
 ## Acknowledgements
 * [Model 3 tutorial](https://towardsdatascience.com/how-to-create-a-chatbot-with-python-deep-learning-in-less-than-an-hour-56a063bdfc44 )
