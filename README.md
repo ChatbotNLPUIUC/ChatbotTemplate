@@ -8,6 +8,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
@@ -24,6 +25,28 @@ The project is incomplete and can be improved in a variety of ways. For example,
 Overall, all 4 models can also be improved by simply collecting more data.
 
 A list of used resources are listed in the acknowledgements.
+
+### Usage
+
+Install requirements:
+```
+pip install requirements.txt
+```
+
+Train the models:
+```
+cd python-project-chatbot-codes
+python3 train_chatbot.py
+python3 model2_train.py
+```
+
+Activate the chat GUI:
+```
+python3 chatgui.py
+```
+
+![chatbot-image](./chatbot_img.png)
+
 
 ### Built With
 
