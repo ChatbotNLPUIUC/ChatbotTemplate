@@ -20,6 +20,12 @@ words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 find = whooshFinder("woosh_data.txt")
 
+#Adding Reddit data
+import praw
+import pandas as pd
+from search_reddit import setup_subreddit, search_subreddit
+subreddit = setup_subreddit()
+
 
 def clean_up_sentence(sentence):
     # tokenize the pattern - split words into array
@@ -71,11 +77,17 @@ def getResponse(ints, intents_json):
     return result
 
 def chatbot_response(msg):
-    is_UIUC_related = model2.predict(["".join(msg)])
+    is_UIUC_related = model2.predict(["".join(msg)]) or ':reddit:' in msg
     res = ""
     if is_UIUC_related:
         #res = "I see that you asked a question about UIUC"
-        res = find.whooshFind(msg)
+        # alternatively, we could have the user specify the subreddit, e.g. :r/UIUC:
+        if ':reddit:' in msg:
+            posts = search_subreddit(subreddit, msg, num_posts=1, num_comments=1)
+            comments = posts['Answer'][0]
+            res = comments[0]
+        else:
+            res = find.whooshFind(msg)
     else:
         ints = predict_class(msg, model3)
         res = getResponse(ints, intents)
@@ -94,7 +106,7 @@ def send():
     if msg != '':
         ChatLog.config(state=NORMAL)
         ChatLog.insert(END, "You: " + msg + '\n\n')
-        ChatLog.config(foreground="#442265", font=("Verdana", 12 ))
+        ChatLog.config(foreground="#442265", font=("Verdana", 12))
 
         res = chatbot_response(msg)
         ChatLog.insert(END, "Bot: " + res + '\n\n')
@@ -109,7 +121,7 @@ base.geometry("400x500")
 base.resizable(width=FALSE, height=FALSE)
 
 #Create Chat window
-ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Arial",)
+ChatLog = Text(base, bd=0, bg="white", height="8", width="50", font="Arial")
 
 ChatLog.config(state=DISABLED)
 
